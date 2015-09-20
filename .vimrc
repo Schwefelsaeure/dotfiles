@@ -23,19 +23,20 @@ endif
 " This must be first, because it changes other options as a side effect.
 set nocompatible
 
-" allow backspacing over everything in insert mode
+set background=dark
 set backspace=indent,eol,start
-
-set nobackup		" do not keep a backup file
-set history=50		" keep 50 lines of command line history
-set ruler		" show the cursor position all the time
-set showcmd		" display incomplete commands
-set showmatch           " show matching brackets
-set incsearch		" do incremental searching
-set ignorecase          " do case insensitive matching
-set background=dark	" use color setup for dark backgrounds
-set laststatus=2	" show status line always
-set wildmenu		" operate command-line completion in enhanced mode
+set expandtab
+set history=50
+set ignorecase
+set incsearch
+set laststatus=2
+set nobackup
+set ruler
+set shiftwidth=4
+set showcmd
+set showmatch
+set tabstop=4
+set wildmenu
 
 " For Win32 GUI: remove 't' flag from 'guioptions': no tearoff menu entries
 " let &guioptions = substitute(&guioptions, "t", "", "g")
@@ -71,9 +72,6 @@ if has("autocmd")
   " Put these in an autocmd group, so that we can delete them easily.
   augroup vimrcEx
   au!
-
-  " Use ruby specific settings.
-  autocmd FileType eruby,ruby set shiftwidth=2 tabstop=2 expandtab
 
   " When editing a file, always jump to the last known cursor position.
   " Don't do it when the position is invalid or when inside an event handler
