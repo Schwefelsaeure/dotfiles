@@ -1,0 +1,11 @@
+function echo_aliases() {
+	echo "Aliases:"
+	echo -n "  "
+	
+	for alias in $(compgen -a)
+	do
+	  echo -n "${alias} "
+	done
+	
+	echo ""
+}

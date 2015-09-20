@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt/users/benedikt/Programmierung/Tutorials/Tools/CMake'
+let g:netrw_dirhist_2='/mnt/users/benedikt/Programmierung/Tutorials/Tools/CMake/src'
+let g:netrw_dirhist_3='/mnt/users/benedikt/Programmierung/Tutorials/Tools/CMake'
+let g:netrw_dirhist_4='/mnt/users/benedikt/Programmierung/Tutorials/Tools/CMake/src'

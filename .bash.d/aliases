@@ -1,0 +1,32 @@
+# Command Redefinitions
+
+alias grep="grep --color=auto"
+alias ls="ls --color=auto"
+
+# Git
+
+alias ga="git add"
+alias gaf="git add -f"
+alias gb="git branch -vv"
+alias gba="git branch -avv"
+alias gc="git commit -v"
+alias gca="git commit -av"
+alias gctool="git gui"
+alias gco="git checkout"
+alias gd="git diff"
+alias gdc="git diff --cached"
+alias gfa="git fetch --all"
+alias gh="git help"
+alias gl="git log --all --date=relative --graph --pretty=format:\"%C(auto)%h %d %s %Cgreen%cd%Creset\""
+alias glp="git log --all --date=relative --graph --pretty=format:\"%C(auto)%h %d %s %Cgreen%cd%Creset\" -p"
+alias gls="git log --all --date=relative --graph --pretty=format:\"%C(auto)%h %d %s %Cgreen%cd%Creset\" --stat"
+alias gltool="gitk --all"
+alias gm="git merge"
+alias gpl="git pull -v"
+alias gps="git push -v"
+alias gr="git reset HEAD --"
+alias gs="git status -s"
+
+# Locations
+
+alias data="cd /mnt/users/$USER"

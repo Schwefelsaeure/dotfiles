@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/tmp'
+let g:netrw_dirhist_2='/mnt/users/benedikt/Programmierung/Tutorials/Languages/C/The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie/Chapters'
+let g:netrw_dirhist_3='/mnt/users/benedikt/Programmierung/Tutorials/Languages/C/The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie'

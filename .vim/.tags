@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AppendMethodDefinitionToEndOfFile	functions.vim	/^function! AppendMethodDefinitionToEndOfFile(method_signature, method_definition)$/;"	f
+DeleteLines	functions.vim	/^function! DeleteLines(lines)$/;"	f
+ExtractMethodFromVisualSelection	functions.vim	/^function! ExtractMethodFromVisualSelection(method_signature)$/;"	f
+GetArgumentList	functions.vim	/^function! GetArgumentList(signature)$/;"	f
+GetLinesFromVisualSelection	functions.vim	/^function! GetLinesFromVisualSelection()$/;"	f
+GetMethodNameFromSignature	functions.vim	/^function! GetMethodNameFromSignature(signature)$/;"	f
+GetTextFromVisualSelection	functions.vim	/^function! GetTextFromVisualSelection()$/;"	f
+PrependMethodDeclarationToBeginningOfFile	functions.vim	/^function! PrependMethodDeclarationToBeginningOfFile(method_declaration)$/;"	f

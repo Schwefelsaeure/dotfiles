@@ -1,0 +1,22 @@
+[core]
+	editor = vim
+	autocrlf = input
+	# Convert CRLF to LF when adding files and vice versa on checkout.
+	# autocrlf = true
+	# Turned on by default: blank-at-eol, blank-at-eof, space-before-tab
+	# Turned off by default: indent-with-non-tab, tab-in-indent, cr-at-eol
+	# Turning off option by preceding "-" or leaving option out.
+	# whitespace = blank-at-eol,blank-at-eof,space-before-tab
+[user]
+	name = Benedikt Kleinmeier
+	email = kleinmeier.benedikt@gmail.com
+[color]
+	ui = auto
+[gui]
+	spellingdictionary = en_US
+[push]
+	default = simple
+[diff]
+	tool = kompare
+[difftool]
+	prompt = false

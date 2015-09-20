@@ -1,0 +1,4 @@
+export EDITOR=vim
+export GIT_PS1_SHOWDIRTYSTATE=1
+export PATH="$PATH":/home/benedikt/.gem/ruby/2.2.0/bin
+export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
