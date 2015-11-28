@@ -1,5 +1,5 @@
 # XScreenSaver Preferences File
-# Written by xscreensaver-demo 5.33 for benedikt on Thu Oct 22 20:19:58 2015.
+# Written by xscreensaver-demo 5.34 for benedikt on Fri Nov 27 22:07:34 2015.
 # http://www.jwz.org/xscreensaver/
 
 timeout:	0:10:00
@@ -258,6 +258,7 @@ programs:								      \
   GL: 				geodesicgears -root			    \n\
   GL: 				romanboy -root				    \n\
   GL: 				splitflap -root				    \n\
+				testx11 -root				    \n\
 
 
 pointerPollTime:    0:00:05
