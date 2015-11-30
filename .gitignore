@@ -25,6 +25,7 @@
 .pki/
 .purple/
 .solfege/
+.ssh/
 .subversion/
 .thumbnails/
 .tooling/
