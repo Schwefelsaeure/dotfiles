@@ -30,6 +30,7 @@ alias gpl="git pull -v"
 alias gps="git push -v"
 alias gr="git reset HEAD"
 alias gs="git status -s"
+alias gsh="git show"
 
 # Locations
 
