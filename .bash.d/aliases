@@ -35,3 +35,7 @@ alias gsh="git show"
 # Locations
 
 alias data="cd /mnt/users/$USER"
+
+# Misc
+
+alias fg="find_files_and_grep"
