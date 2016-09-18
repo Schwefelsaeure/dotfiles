@@ -30,7 +30,7 @@ set diffcontext 3
 set selectbgcolor gray85
 set foundbgcolor yellow
 set currentsearchhitbgcolor orange
-set extdifftool meld
+set extdifftool kompare
 set perfile_attrs 0
 set headbgcolor green
 set headfgcolor black

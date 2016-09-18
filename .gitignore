@@ -30,6 +30,7 @@
 .subversion/
 .thumbnails/
 .tooling/
+Downloads/
 workspace/
 
 # Files
@@ -43,6 +44,7 @@ workspace/
 .fonts.conf
 .jackdrc
 .lesshst
+.octave_hist
 .p7zip
 .python_history
 .recently-used
