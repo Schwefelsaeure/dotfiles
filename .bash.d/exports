@@ -1,3 +1,4 @@
+export DATA=/mnt/users/$USER
 export EDITOR=vim
 export GIT_PS1_SHOWDIRTYSTATE=1
 export PATH="$PATH":/home/benedikt/.gem/ruby/2.2.0/bin
