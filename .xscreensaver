@@ -1,5 +1,5 @@
 # XScreenSaver Preferences File
-# Written by xscreensaver-demo 5.36 for benedikt on Thu May  4 20:03:44 2017.
+# Written by xscreensaver-demo 5.37 for benedikt on Fri Sep 22 21:42:14 2017.
 # https://www.jwz.org/xscreensaver/
 
 timeout:	0:10:00
@@ -269,6 +269,7 @@ programs:								      \
   GL: 				discoball -root				    \n\
   GL: 				hexstrut -root				    \n\
   GL: 				splodesic -root				    \n\
+  GL: 				vigilance -root				    \n\
 
 
 pointerPollTime:    0:00:05
