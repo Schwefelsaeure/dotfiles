@@ -3,8 +3,6 @@
 .adobe/
 .cache/
 .config/*
-!.config/dolphinrc
-!.config/lxqt
 .dbus/
 .designer/
 .dropbox-dist/
@@ -41,6 +39,8 @@ workspace/
 .Xauthority
 .Xdefaults
 .bash_history
+!.config/dolphinrc
+!.config/lxqt
 .directory
 .dmrc
 .esd_auth
@@ -57,3 +57,4 @@ workspace/
 .swp
 .viminfo
 .xsession-errors
+
