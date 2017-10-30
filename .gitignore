@@ -2,7 +2,9 @@
 
 .adobe/
 .cache/
-.config/
+.config/*
+!.config/dolphinrc
+!.config/lxqt
 .dbus/
 .designer/
 .dropbox-dist/
@@ -28,6 +30,7 @@
 .solfege/
 .ssh/
 .subversion/
+.texlive/
 .thumbnails/
 .tooling/
 Downloads/

@@ -1,0 +1,16 @@
+2017-10-30 12:48:46.948 (0x7ffc0c503a40) Warning: QFSFileEngine::open: No file name specified
+2017-10-30 12:48:46.948 (0x7ffc0c503a40) Warning: QFSFileEngine::open: No file name specified
+2017-10-30 12:48:46.948 (0x7ffc0c503a40) Warning: QFSFileEngine::open: No file name specified
+2017-10-30 12:48:46.948 (0x7ffc0c503a40) Warning: QFSFileEngine::open: No file name specified
+2017-10-30 12:52:29.398 (0x7ffd38c6f9b0) Debug: New PolkitAgentListener  0x55f2609768e0
+2017-10-30 12:52:29.398 (0x7ffd38c6f9b0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd38c6f9c0) for  0x55f2609768e0
+2017-10-30 12:52:30.095 (0x7ffc4fdf2d00) Debug: WinIdChange 140001a handle QWidgetWindow(0x55d27e408b10, name="LXQtPanel panel1Window") QScreen(0x55d27de18f70, name="LVDS1")
+2017-10-30 12:52:30.109 (0x7ffc4fdf2d00) Debug: Systray started
+2017-10-30 12:52:30.183 (0x7ffdb427fe90) Debug: Inhibit got: 27
+2017-10-30 12:52:30.336 (0x7ffc4fdf2d00) Warning:     * Error image is NULL
+2017-10-30 12:52:30.352 (0x7ffc4fdf2d00) Warning:     * Error image is NULL
+2017-10-30 12:52:31.320 (0x7ffc4fdf2d00) Warning:     * Error image is NULL
+2017-10-30 12:52:46.587 (0x7ffc4fdf2d00) Debug: execAction "/usr/share/applications/firefox.desktop"
+2017-10-30 12:56:30.469 (0x7ffd38b6b220) Debug: add "de" ""
+2017-10-30 12:57:21.843 (0x7ffd38b6b220) Debug: add "us" ""
+2017-10-30 12:57:21.932 (0x7ffd38b6b220) Debug: "setxkbmap -model pc105 -layout de,us -variant ,"
