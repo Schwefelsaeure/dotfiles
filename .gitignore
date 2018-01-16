@@ -19,6 +19,7 @@
 .java/
 .kde4/
 .local/
+.m2/                                                                                      
 .macromedia/
 .mozilla/
 .mplayer/
@@ -28,9 +29,11 @@
 .solfege/
 .ssh/
 .subversion/
+.swt/                                                                                     
 .texlive/
 .thumbnails/
 .tooling/
+.visualvm/
 Downloads/
 workspace/
 
