@@ -8003,3 +8003,38 @@
 2018-01-16 21:38:49.291 (0x7ffd1d0ac4c0) Warning: link y hasn't been detected!
 2018-01-16 21:38:49.291 (0x7ffd1d0ac4c0) Warning: link y hasn't been detected!
 2018-01-16 21:38:49.291 (0x7ffd1d0ac4c0) Warning: link y hasn't been detected!
+2018-01-16 21:59:54.025 (0x7ffd1d0ac4c0) Warning:     * Error image is NULL
+2018-01-16 22:00:00.019 (0x7ffd1d0ac4c0) Warning:     * Error image is NULL
+2018-01-16 22:02:41.843 (0x7ffc14558470) Warning: QFSFileEngine::open: No file name specified
+2018-01-16 22:03:23.727 (0x7ffc14558470) Warning: QFSFileEngine::open: No file name specified
+2018-01-16 22:03:55.565 (0x7ffc14558470) Warning: QFSFileEngine::open: No file name specified
+2018-01-16 22:07:48.026 (0x7ffd1d0ac4c0) Warning:     * Error image is NULL
+2018-01-16 22:07:54.023 (0x7ffd1d0ac4c0) Warning:     * Error image is NULL
+2018-01-16 22:12:06.023 (0x7ffd1d0ac4c0) Warning:     * Error image is NULL
+2018-01-16 22:12:18.025 (0x7ffd1d0ac4c0) Warning:     * Error image is NULL
+2018-01-16 22:14:12.024 (0x7ffd1d0ac4c0) Warning:     * Error image is NULL
+2018-01-16 22:14:18.026 (0x7ffd1d0ac4c0) Warning:     * Error image is NULL
+2018-01-16 22:23:25.783 (0x7ffd1d0ac4c0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 57430, resource id: 50331664, major code: 18 (ChangeProperty), minor code: 0
+2018-01-16 22:23:25.785 (0x7ffd1d0ac4c0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 57433, resource id: 50331664, major code: 18 (ChangeProperty), minor code: 0
+2018-01-16 22:23:46.574 (0x7ffd3d9a84f0) Debug: New PolkitAgentListener  0x55a2e6d618c0
+2018-01-16 22:23:46.574 (0x7ffd3d9a84f0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd3d9a8500) for  0x55a2e6d618c0
+2018-01-16 22:23:49.210 (0x7fff072a2c10) Debug: WinIdChange 1800007 handle QWidgetWindow(0x556835cb2440, name="LXQtPanel panel1Window") QScreen(0x5568359c5530, name="LVDS1")
+2018-01-16 22:23:49.243 (0x7fff072a2c10) Debug: Systray started
+2018-01-16 22:23:49.462 (0x7ffd610d2900) Debug: Inhibit got: 27
+2018-01-16 22:23:49.469 (0x7fff072a2c10) Warning:     * Error image is NULL
+2018-01-16 22:23:49.487 (0x7fff072a2c10) Warning:     * Error image is NULL
+2018-01-16 22:23:53.273 (0x7fff072a2c10) Warning:     * Error image is NULL
+2018-01-16 22:25:12.040 (0x7fff072a2c10) Warning:     * Error image is NULL
+2018-01-16 22:25:17.652 (0x7fff072a2c10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3490, resource id: 39845894, major code: 18 (ChangeProperty), minor code: 0
+2018-01-16 22:25:17.654 (0x7fff072a2c10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3493, resource id: 39845894, major code: 18 (ChangeProperty), minor code: 0
+2018-01-16 22:25:18.020 (0x7fff072a2c10) Warning:     * Error image is NULL
+2018-01-16 22:25:22.263 (0x7fff072a2c10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4296, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-01-16 22:25:22.279 (0x7fff072a2c10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4299, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-01-16 22:25:29.975 (0x7ffe142f63d0) Debug: New PolkitAgentListener  0x563fe3c50ac0
+2018-01-16 22:25:29.989 (0x7ffe142f63d0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe142f63e0) for  0x563fe3c50ac0
+2018-01-16 22:25:30.922 (0x7ffcde18f1e0) Debug: WinIdChange 1600007 handle QWidgetWindow(0x55e7fa3e1530, name="LXQtPanel panel1Window") QScreen(0x55e7fa0c6530, name="LVDS1")
+2018-01-16 22:25:30.943 (0x7ffcde18f1e0) Debug: Systray started
+2018-01-16 22:25:31.043 (0x7ffed71091f0) Debug: Inhibit got: 27
+2018-01-16 22:25:31.171 (0x7ffcde18f1e0) Warning:     * Error image is NULL
+2018-01-16 22:25:31.187 (0x7ffcde18f1e0) Warning:     * Error image is NULL
+2018-01-16 22:25:32.010 (0x7ffcde18f1e0) Warning:     * Error image is NULL
