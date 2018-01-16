@@ -8038,3 +8038,4 @@
 2018-01-16 22:25:31.171 (0x7ffcde18f1e0) Warning:     * Error image is NULL
 2018-01-16 22:25:31.187 (0x7ffcde18f1e0) Warning:     * Error image is NULL
 2018-01-16 22:25:32.010 (0x7ffcde18f1e0) Warning:     * Error image is NULL
+2018-01-16 22:28:06.664 (0x7ffcde18f1e0) Debug: execAction "/usr/share/applications/firefox.desktop"

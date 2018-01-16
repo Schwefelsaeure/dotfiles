@@ -27,7 +27,7 @@
 .pki/
 .purple/
 .solfege/
-.ssh/
+.ssh/*
 .subversion/
 .swt/                                                                                     
 .texlive/
@@ -55,6 +55,7 @@ workspace/
 .python_history
 .recently-used
 .scala_history
+!.ssh/config
 .solfegerc
 .sqlite_history
 .swp
