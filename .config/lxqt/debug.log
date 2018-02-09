@@ -13598,3 +13598,288 @@
 2018-02-09 07:18:26.677 (0x7fff136a7980) Warning: Empty filename passed to function
 2018-02-09 07:18:26.762 (0x7fff8b272910) Warning:     * Error image is NULL
 2018-02-09 07:18:26.779 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:55:39.240 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 27881, resource id: 20974980, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:39.240 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 27896, resource id: 20974980, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:39.240 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 27899, resource id: 20974980, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:39.254 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 27956, resource id: 20974989, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:39.254 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 27971, resource id: 20974989, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:39.261 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 28026, resource id: 20974998, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:39.261 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 28047, resource id: 20974998, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:40.044 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 28218, resource id: 20975028, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:40.044 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 28239, resource id: 20975028, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:40.498 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 28295, resource id: 20975038, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:40.498 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 28310, resource id: 20975038, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:41.653 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:55:41.653 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:55:41.653 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.653 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.653 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.653 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.653 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.653 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.654 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.655 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:41.656 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:55:49.379 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 28941, resource id: 20975086, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.380 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 28957, resource id: 20975086, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.380 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 28967, resource id: 20975086, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.380 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 28975, resource id: 20975086, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.395 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29045, resource id: 20975098, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.395 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29061, resource id: 20975098, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.395 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29069, resource id: 20975098, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.396 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29097, resource id: 20975098, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.413 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29113, resource id: 20975098, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.430 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29129, resource id: 20975098, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.446 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29145, resource id: 20975098, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.461 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29161, resource id: 20975098, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.477 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29177, resource id: 20975098, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:49.493 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29193, resource id: 20975098, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:50.458 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29266, resource id: 20975134, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:50.458 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29281, resource id: 20975134, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:50.594 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29336, resource id: 20975143, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:55:50.594 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 8 (BadMatch), sequence: 29351, resource id: 20975143, major code: 130 (Unknown), minor code: 3
+2018-02-09 07:58:53.847 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link x hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:58:53.848 (0x7fff8b272910) Warning: link y hasn't been detected!
+2018-02-09 07:59:07.901 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:59:07.915 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:59:08.099 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:59:08.100 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:59:08.103 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:59:08.105 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 08:01:52.412 (0x7fff136a7980) Debug: Oooook! Expecting instance of notification, got: 0
+2018-02-09 08:01:52.452 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 08:01:52.471 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 08:01:53.364 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 08:01:54.591 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 08:01:58.900 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 08:05:00.505 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 08:05:00.506 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 08:05:00.508 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 08:09:22.670 (0x7fff8b272910) Debug: execAction "/usr/share/applications/org.kde.dolphin.desktop"
+2018-02-09 09:07:16.583 (0x7ffe0cef6ba0) Warning: QFSFileEngine::open: No file name specified
+2018-02-09 09:25:06.591 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 09:25:12.595 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 10:10:20.799 (0x7fff8b272910) Debug: execAction "/usr/share/applications/firefox.desktop"
+2018-02-09 11:57:03.327 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 11:57:03.372 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 12:43:17.968 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 12:43:17.984 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 12:43:18.057 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 12:43:18.074 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 12:43:18.152 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 12:43:19.028 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 12:43:50.303 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 12:45:15.009 (0x7fff8b272910) Debug: execAction "/usr/share/applications/firefox.desktop"
+2018-02-09 13:27:56.548 (0x7fff8b272910) Warning: UdevQt: unhandled device action "bind"
+2018-02-09 13:28:40.477 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 37312, resource id: 54525968, major code: 18 (ChangeProperty), minor code: 0
+2018-02-09 13:28:44.919 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 37912, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-02-09 13:28:44.920 (0x7fff8b272910) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 37915, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-02-09 13:29:56.698 (0x7ffe548301c0) Debug: New PolkitAgentListener  0x561be9b626c0
+2018-02-09 13:29:57.494 (0x7ffe548301c0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe548301d0) for  0x561be9b626c0
+2018-02-09 13:30:09.949 (0x7fffe3b7b670) Debug: WinIdChange 1600007 handle QWidgetWindow(0x55f8ff9495c0, name="LXQtPanel panel1Window") QScreen(0x55f8ff657530, name="LVDS1")
+2018-02-09 13:30:10.045 (0x7fffe3b7b670) Debug: Systray started
+2018-02-09 13:30:10.402 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 13:30:10.414 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 13:30:10.708 (0x7ffe2a835240) Debug: Inhibit got: 28
+2018-02-09 13:30:16.444 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 13:30:32.240 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 13:32:25.193 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/block_devices/sdb1" lost interfaces: ("org.freedesktop.UDisks2.Partition", "org.freedesktop.UDisks2.Filesystem", "org.freedesktop.UDisks2.Block")
+2018-02-09 13:32:25.209 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" lost interfaces: ("org.freedesktop.UDisks2.PartitionTable")
+2018-02-09 13:32:29.107 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" lost interfaces: ("org.freedesktop.UDisks2.Block")
+2018-02-09 13:32:29.107 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/drives/Samsung_Flash_Drive_0353016010019507" lost interfaces: ("org.freedesktop.UDisks2.Drive")
+2018-02-09 13:32:29.111 (0x7fffe3b7b670) Warning: UdevQt: unhandled device action "unbind"
+2018-02-09 13:32:29.112 (0x7fffe3b7b670) Warning: UdevQt: unhandled device action "unbind"
+2018-02-09 13:35:53.064 (0x7fffe3b7b670) Debug: execAction "/usr/share/applications/org.kde.dolphin.desktop"
+2018-02-09 13:36:34.526 (0x7fffe3b7b670) Warning: UdevQt: unhandled device action "bind"
+2018-02-09 13:36:34.527 (0x7fffe3b7b670) Warning: UdevQt: unhandled device action "bind"
+2018-02-09 13:36:35.914 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/drives/Samsung_Flash_Drive_0353016010019507" has new interfaces: ("org.freedesktop.UDisks2.Drive")
+2018-02-09 13:36:35.922 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" has new interfaces: ("org.freedesktop.UDisks2.Block", "org.freedesktop.UDisks2.PartitionTable")
+2018-02-09 13:36:35.993 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/block_devices/sdb1" has new interfaces: ("org.freedesktop.UDisks2.Block", "org.freedesktop.UDisks2.Filesystem", "org.freedesktop.UDisks2.Partition")
+2018-02-09 13:45:40.602 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/block_devices/sdb1" lost interfaces: ("org.freedesktop.UDisks2.Partition", "org.freedesktop.UDisks2.Filesystem", "org.freedesktop.UDisks2.Block")
+2018-02-09 13:45:40.683 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" lost interfaces: ("org.freedesktop.UDisks2.PartitionTable")
+2018-02-09 13:45:43.952 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" lost interfaces: ("org.freedesktop.UDisks2.Block")
+2018-02-09 13:45:43.953 (0x7fffe3b7b670) Debug: "/org/freedesktop/UDisks2/drives/Samsung_Flash_Drive_0353016010019507" lost interfaces: ("org.freedesktop.UDisks2.Drive")
+2018-02-09 13:45:43.966 (0x7fffe3b7b670) Warning: UdevQt: unhandled device action "unbind"
+2018-02-09 13:45:43.969 (0x7fffe3b7b670) Warning: UdevQt: unhandled device action "unbind"
+2018-02-09 14:07:59.262 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:00.358 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:01.257 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:01.276 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:01.482 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:01.585 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:01.609 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:01.686 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:01.787 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:01.890 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:01.989 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:02.136 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:02.199 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:02.304 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:02.392 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:02.509 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:02.593 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:02.693 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:02.794 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:02.893 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:02.995 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:03.096 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:03.194 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:03.297 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:03.398 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:03.500 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:03.599 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:03.700 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:03.801 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:03.901 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:04.001 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:04.103 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:04.201 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:04.304 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:04.407 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:04.506 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:04.607 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:04.708 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:04.808 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:04.909 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:05.010 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:05.111 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:05.212 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:05.312 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:05.413 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:05.515 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:05.615 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:05.716 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:05.817 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:05.917 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.017 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.118 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.219 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.320 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.362 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.420 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.521 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.621 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.722 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.823 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:06.924 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:07.025 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:07.126 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:07.227 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:07.328 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:07.429 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:07.530 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:07.632 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:07.731 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:07.832 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:07.933 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:08.034 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:08.135 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:08.235 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:08.336 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:08.437 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:08.538 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:08.638 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:08.739 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:08.839 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:08.941 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:09.043 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:09.143 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:09.244 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:09.345 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:09.446 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:09.547 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:09.648 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:09.749 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:09.850 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:09.951 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.052 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.152 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.253 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.368 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.451 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.469 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.552 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.653 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.756 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.857 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:10.958 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:11.056 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:11.159 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:11.260 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:11.360 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:11.461 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:11.562 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:11.663 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:11.764 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:11.865 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:11.966 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.067 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.167 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.268 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.359 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.375 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.469 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.570 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.671 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.771 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.872 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:12.974 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:13.074 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:13.174 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:13.276 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:13.376 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:13.478 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:13.577 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:13.679 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:13.779 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:13.880 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:13.981 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:14.081 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:14.110 (0x7ffce7303240) Warning: Empty filename passed to function
+2018-02-09 14:08:14.220 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:08:14.241 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:11:06.362 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:11:12.363 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:15:30.363 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:15:36.364 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:48:24.398 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 14:48:30.357 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 15:05:22.039 (0x7ffce7303240) Debug: Oooook! Expecting instance of notification, got: 0
+2018-02-09 15:05:23.247 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 15:05:24.357 (0x7fffe3b7b670) Warning:     * Error image is NULL
+2018-02-09 15:05:27.294 (0x7fffe3b7b670) Warning:     * Error image is NULL
