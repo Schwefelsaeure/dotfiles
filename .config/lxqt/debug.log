@@ -12523,3 +12523,1078 @@
 2018-01-24 15:46:16.420 (0x7ffd1ac93f10) Warning: Empty filename passed to function
 2018-01-24 15:46:16.457 (0x7ffc1ad09b10) Warning:     * Error image is NULL
 2018-01-24 15:46:16.502 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 16:12:10.025 (0x7ffc1ad09b10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 35705, resource id: 62914669, major code: 18 (ChangeProperty), minor code: 0
+2018-01-24 16:12:10.026 (0x7ffc1ad09b10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 35712, resource id: 62914669, major code: 18 (ChangeProperty), minor code: 0
+2018-01-24 16:12:10.026 (0x7ffc1ad09b10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 35714, resource id: 62914669, major code: 18 (ChangeProperty), minor code: 0
+2018-01-24 16:12:10.027 (0x7ffc1ad09b10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 35735, resource id: 62914669, major code: 18 (ChangeProperty), minor code: 0
+2018-01-24 16:12:10.027 (0x7ffc1ad09b10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 35740, resource id: 62914669, major code: 18 (ChangeProperty), minor code: 0
+2018-01-24 16:12:10.368 (0x7ffc1ad09b10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 35956, resource id: 62928185, major code: 18 (ChangeProperty), minor code: 0
+2018-01-24 16:12:10.369 (0x7ffc1ad09b10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 35959, resource id: 62928185, major code: 18 (ChangeProperty), minor code: 0
+2018-01-24 16:13:14.503 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:18:33.706 (0x7ffd1ac93f10) Debug: Oooook! Expecting instance of notification, got: 0
+2018-01-24 20:18:33.707 (0x7ffd1ac93f10) Warning: Empty filename passed to function
+2018-01-24 20:18:33.731 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:18:34.635 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:18:35.825 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:18:35.843 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:18:36.024 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:18:36.042 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:56:31.630 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:56:31.631 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:56:31.633 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:56:31.635 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 20:56:33.075 (0x7ffc1ad09b10) Warning:     * Error image is NULL
+2018-01-24 22:12:03.476 (0x7ffc1ad09b10) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 41875, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-01-25 19:45:00.301 (0x7ffd4ff2d800) Debug: New PolkitAgentListener  0x56219f1e0ac0
+2018-01-25 19:45:01.164 (0x7ffd4ff2d800) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd4ff2d810) for  0x56219f1e0ac0
+2018-01-25 19:45:12.799 (0x7ffeb938b750) Debug: WinIdChange 1800007 handle QWidgetWindow(0x5645d7abe100, name="LXQtPanel panel1Window") QScreen(0x5645d7825530, name="LVDS1")
+2018-01-25 19:45:12.831 (0x7ffeb938b750) Debug: Systray started
+2018-01-25 19:45:12.832 (0x7ffeb938b750) Warning: QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.41'
+2018-01-25 19:45:13.087 (0x7ffd47d0d220) Debug: Inhibit got: 27
+2018-01-25 19:45:20.132 (0x7ffeb938b750) Warning:     * Error image is NULL
+2018-01-25 19:45:20.142 (0x7ffeb938b750) Warning:     * Error image is NULL
+2018-01-25 19:45:22.283 (0x7ffeb938b750) Warning:     * Error image is NULL
+2018-01-25 19:47:12.004 (0x7ffeb938b750) Debug: execAction "/usr/share/applications/firefox.desktop"
+2018-01-25 19:49:22.383 (0x7ffeb938b750) Debug: execAction "/usr/share/applications/org.kde.dolphin.desktop"
+2018-01-25 19:56:19.926 (0x7ffeb938b750) Debug: execAction "/usr/share/applications/org.kde.dolphin.desktop"
+2018-01-25 20:31:46.306 (0x7ffeb938b750) Warning:     * Error image is NULL
+2018-01-25 20:31:52.023 (0x7ffeb938b750) Warning:     * Error image is NULL
+2018-01-25 22:14:01.566 (0x7ffeb938b750) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 25564, resource id: 23068677, major code: 18 (ChangeProperty), minor code: 0
+2018-01-25 22:14:01.566 (0x7ffeb938b750) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 25567, resource id: 23068677, major code: 18 (ChangeProperty), minor code: 0
+2018-01-26 11:36:15.029 (0x7ffc3dca1980) Debug: New PolkitAgentListener  0x55ee934f90c0
+2018-01-26 11:36:15.652 (0x7ffc3dca1980) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc3dca1990) for  0x55ee934f90c0
+2018-01-26 11:36:28.983 (0x7ffc9dab0810) Debug: WinIdChange 1800007 handle QWidgetWindow(0x55b92efc0460, name="LXQtPanel panel1Window") QScreen(0x55b92ee28530, name="LVDS1")
+2018-01-26 11:36:29.056 (0x7ffc9dab0810) Debug: Systray started
+2018-01-26 11:36:29.515 (0x7ffef0dc8f90) Debug: Inhibit got: 27
+2018-01-26 11:36:33.440 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-26 11:36:33.465 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-26 11:36:35.842 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-26 12:54:01.368 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-26 12:54:07.331 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-26 13:15:54.692 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-26 13:34:01.106 (0x7ffc9dab0810) Debug: execAction "/usr/share/applications/org.kde.dolphin.desktop"
+2018-01-26 14:08:05.339 (0x7ffc9dab0810) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 41437, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-01-26 14:08:11.137 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:07:19.883 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:07:19.900 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:07:20.163 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:07:20.181 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:07:33.935 (0x7ffc9dab0810) Debug: execAction "/usr/share/applications/firefox.desktop"
+2018-01-28 20:32:10.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:32:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:32:34.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:32:40.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:32:46.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:33:10.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:33:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:33:28.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:34:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:34:10.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:35:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:36:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:36:22.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:36:28.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:36:34.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:36:40.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:37:04.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:37:16.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:37:40.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:37:46.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:39:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:39:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:39:34.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:39:40.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:40:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:40:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:45:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:45:10.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:46:40.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:46:46.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:47:46.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:47:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:48:04.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:48:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:48:46.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:48:52.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:49:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:49:10.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:51:34.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:51:40.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:52:34.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:52:40.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:55:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:55:10.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:55:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:56:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:56:46.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:57:16.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:59:22.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:59:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:59:40.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 20:59:46.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:00:22.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:00:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:03:28.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:03:34.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:05:16.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:05:28.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:05:34.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:05:46.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:06:46.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:07:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:07:58.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:08:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:08:46.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:08:52.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:09:34.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:09:40.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:09:46.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:09:52.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:09:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:10:16.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:11:22.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:11:28.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:11:46.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:11:52.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:11:58.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:12:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:12:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:13:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:14:22.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:14:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:14:52.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:14:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:15:46.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:15:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:16:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:16:22.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:17:10.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:17:16.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:18:22.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:18:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:18:40.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:18:46.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:19:10.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:19:22.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:19:40.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:19:46.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:19:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:20:04.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:20:16.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:20:22.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:20:28.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:20:46.151 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:22:04.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:22:10.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:23:22.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:23:28.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:23:40.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:23:58.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:24:34.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:24:40.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:24:52.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:24:58.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:25:28.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:25:34.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:25:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:26:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:26:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:26:22.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:26:28.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:26:40.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:26:58.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:27:04.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:27:22.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:27:28.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:27:46.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:27:52.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:28:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:28:16.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:28:34.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:28:40.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:29:04.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:29:10.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:29:16.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:29:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:29:46.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:29:52.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:29:58.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:30:16.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:30:52.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:30:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:31:46.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:31:52.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:32:16.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:32:22.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:33:22.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:33:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:33:52.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:33:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:34:52.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:34:58.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:35:16.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:35:22.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:36:58.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:37:04.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:37:10.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:37:16.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:38:40.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:38:46.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:39:34.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:39:40.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:41:22.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:41:28.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:43:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:43:40.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:43:46.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:43:52.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:43:58.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:44:22.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:44:28.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:44:34.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:44:58.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:45:10.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:45:46.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:45:52.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:46:10.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:46:16.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:46:46.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:46:52.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:46:58.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:47:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:47:52.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:47:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:48:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:48:22.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:48:28.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:48:40.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:49:28.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:49:34.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:53:58.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:54:22.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:54:28.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:54:46.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:54:52.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:54:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:56:22.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:56:28.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:56:58.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:57:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:57:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:57:22.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:58:46.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 21:58:52.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:00:58.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:01:04.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:01:22.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:01:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:01:46.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:01:52.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:02:28.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:02:34.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:04:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:04:10.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:04:40.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:04:46.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:06:46.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:06:58.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:07:34.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:07:40.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:08:52.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:08:58.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:10:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:10:46.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:11:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:11:28.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:11:34.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:12:16.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:12:46.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:12:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:13:40.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:13:46.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:14:52.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:14:58.158 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:16:22.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:16:28.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:17:40.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:18:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:18:10.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:18:46.154 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:18:52.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:18:58.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:19:04.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:19:16.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:19:46.156 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:19:52.151 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:22:34.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:22:46.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:24:22.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:24:28.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:24:34.153 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:24:40.152 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:26:22.157 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:26:28.155 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:26:41.549 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:26:41.559 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:26:41.561 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:26:41.563 (0x7ffc9dab0810) Warning:     * Error image is NULL
+2018-01-28 22:26:43.783 (0x7ffc9dab0810) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 64166, resource id: 41943056, major code: 18 (ChangeProperty), minor code: 0
+2018-01-28 22:26:43.784 (0x7ffc9dab0810) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 64169, resource id: 41943056, major code: 18 (ChangeProperty), minor code: 0
+2018-01-28 22:26:54.468 (0x7ffc9dab0810) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 65106, resource id: 39845903, major code: 18 (ChangeProperty), minor code: 0
+2018-01-29 05:58:24.975 (0x7ffe3739df10) Debug: New PolkitAgentListener  0x55cdecb686c0
+2018-01-29 05:58:26.462 (0x7ffe3739df10) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe3739df20) for  0x55cdecb686c0
+2018-01-29 05:58:38.324 (0x7ffc0732e060) Debug: WinIdChange 1800007 handle QWidgetWindow(0x55e69692a6f0, name="LXQtPanel panel1Window") QScreen(0x55e69665f530, name="LVDS1")
+2018-01-29 05:58:38.400 (0x7ffc0732e060) Debug: Systray started
+2018-01-29 05:58:38.401 (0x7ffc0732e060) Warning: QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.43'
+2018-01-29 05:58:39.205 (0x7ffd3bec40f0) Debug: Inhibit got: 27
+2018-01-29 05:58:43.157 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 05:58:43.182 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 05:58:46.406 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 09:42:15.455 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 09:42:16.881 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 09:42:16.900 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 09:42:17.136 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 09:42:17.153 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 10:48:03.730 (0x7ffc0732e060) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 17661, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-01-29 10:48:32.610 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 18:29:01.623 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 18:29:02.872 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 18:29:02.889 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 18:29:03.068 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 18:29:03.085 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 18:29:34.045 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 18:30:09.916 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 18:30:09.919 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 18:30:09.921 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 18:30:11.941 (0x7ffc0732e060) Debug: execAction "/usr/share/applications/org.kde.konsole.desktop"
+2018-01-29 18:30:32.689 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 19:34:46.342 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 19:34:46.344 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 19:34:46.346 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 19:34:46.348 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 19:38:36.829 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 20:05:21.646 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 20:05:22.868 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 20:05:22.885 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 20:05:23.096 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 20:05:23.113 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 20:35:04.022 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 20:35:09.990 (0x7ffc0732e060) Warning:     * Error image is NULL
+2018-01-29 22:02:35.458 (0x7ffc0732e060) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 41010, resource id: 41943056, major code: 18 (ChangeProperty), minor code: 0
+2018-01-29 22:02:35.459 (0x7ffc0732e060) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 41013, resource id: 41943056, major code: 18 (ChangeProperty), minor code: 0
+2018-01-29 22:02:46.358 (0x7ffc0732e060) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 41632, resource id: 6291461, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:02:55.163 (0x7fff2dc91f40) Debug: New PolkitAgentListener  0x5568975358c0
+2018-01-30 18:02:55.236 (0x7fff2dc91f40) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff2dc91f50) for  0x5568975358c0
+2018-01-30 18:03:10.119 (0x7ffcd17ba300) Debug: WinIdChange 1800007 handle QWidgetWindow(0x55c18b7bfab0, name="LXQtPanel panel1Window") QScreen(0x55c18b619530, name="LVDS1")
+2018-01-30 18:03:10.168 (0x7ffcd17ba300) Debug: Systray started
+2018-01-30 18:03:10.667 (0x7ffdeca44c90) Debug: Inhibit got: 27
+2018-01-30 18:03:10.865 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 18:03:10.879 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 18:03:16.582 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 18:04:14.335 (0x7ffcd17ba300) Debug: execAction "/usr/share/applications/org.kde.konsole.desktop"
+2018-01-30 18:14:33.959 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 10152, resource id: 41943149, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:14:33.978 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 10169, resource id: 41943149, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:15:06.550 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 10903, resource id: 48234501, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:15:06.551 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 10906, resource id: 48234501, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:17:00.602 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12228, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:17:00.603 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12231, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:17:07.393 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12433, resource id: 16777232, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:17:07.395 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12436, resource id: 16777232, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:17:13.544 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12612, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:17:13.544 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12615, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:17:17.941 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12798, resource id: 16777237, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 18:17:17.943 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12801, resource id: 16777237, major code: 18 (ChangeProperty), minor code: 0
+2018-01-30 20:44:21.469 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 20:44:23.864 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 20:44:23.883 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 20:44:23.968 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 20:44:24.275 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 20:44:24.293 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 20:44:24.476 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 20:44:24.494 (0x7ffcd17ba300) Warning:     * Error image is NULL
+2018-01-30 23:03:42.036 (0x7ffcd17ba300) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 18506, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-01-31 19:28:18.934 (0x7ffff8d330e0) Debug: New PolkitAgentListener  0x564215e126c0
+2018-01-31 19:28:20.628 (0x7ffff8d330e0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffff8d330f0) for  0x564215e126c0
+2018-01-31 19:28:31.121 (0x7fff0ed16670) Debug: WinIdChange 1800007 handle QWidgetWindow(0x563cecea5500, name="LXQtPanel panel1Window") QScreen(0x563ceccde530, name="LVDS1")
+2018-01-31 19:28:31.246 (0x7fff0ed16670) Debug: Systray started
+2018-01-31 19:28:31.862 (0x7fffeaa65b70) Debug: Inhibit got: 27
+2018-01-31 19:28:37.104 (0x7fff0ed16670) Warning:     * Error image is NULL
+2018-01-31 19:28:37.159 (0x7fff0ed16670) Warning:     * Error image is NULL
+2018-01-31 19:28:40.382 (0x7fff0ed16670) Warning:     * Error image is NULL
+2018-01-31 20:50:49.417 (0x7fff0ed16670) Warning:     * Error image is NULL
+2018-01-31 20:50:49.441 (0x7fff0ed16670) Warning:     * Error image is NULL
+2018-01-31 20:50:49.460 (0x7fff0ed16670) Warning:     * Error image is NULL
+2018-01-31 22:56:11.862 (0x7fff0ed16670) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 22169, resource id: 27262981, major code: 18 (ChangeProperty), minor code: 0
+2018-02-01 18:08:17.478 (0x7ffcfffe6950) Debug: New PolkitAgentListener  0x55d1199436c0
+2018-02-01 18:08:19.047 (0x7ffcfffe6950) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffcfffe6960) for  0x55d1199436c0
+2018-02-01 18:08:30.927 (0x7fffdb61aab0) Debug: WinIdChange 1800007 handle QWidgetWindow(0x55b9e9bed7d0, name="LXQtPanel panel1Window") QScreen(0x55b9e9921530, name="LVDS1")
+2018-02-01 18:08:31.003 (0x7fffdb61aab0) Debug: Systray started
+2018-02-01 18:08:32.044 (0x7ffd5519b110) Debug: Inhibit got: 27
+2018-02-01 18:08:35.758 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 18:08:35.779 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 18:08:38.373 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 18:18:43.204 (0x7fffdb61aab0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 5732, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-02-01 18:18:43.204 (0x7fffdb61aab0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 5735, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-02-01 22:01:32.070 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:33.873 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:33.891 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:33.974 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:34.282 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:34.301 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:34.391 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:34.495 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:34.586 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:34.694 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:34.817 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:34.888 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:34.988 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:35.088 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:35.188 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:35.289 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:35.390 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:35.491 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:35.591 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:35.679 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 22:01:35.877 (0x7fffdb61aab0) Warning:     * Error image is NULL
+2018-02-01 23:37:35.371 (0x7fffdb61aab0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 10603, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-02-02 17:49:34.902 (0x7ffc2fb64e40) Debug: New PolkitAgentListener  0x55a1fa8c08c0
+2018-02-02 17:49:35.011 (0x7ffc2fb64e40) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc2fb64e50) for  0x55a1fa8c08c0
+2018-02-02 17:49:45.924 (0x7ffd72dec7a0) Debug: WinIdChange 1600007 handle QWidgetWindow(0x55afac189330, name="LXQtPanel panel1Window") QScreen(0x55afabfff530, name="LVDS1")
+2018-02-02 17:49:46.025 (0x7ffd72dec7a0) Debug: Systray started
+2018-02-02 17:49:46.551 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 17:49:46.560 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 17:49:46.692 (0x7fff9bc29950) Debug: Inhibit got: 27
+2018-02-02 17:49:55.196 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 18:43:57.517 (0x7ffd72dec7a0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 9572, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-02-02 18:44:04.014 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 20:56:49.794 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 20:56:49.811 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 20:56:49.895 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 20:56:49.996 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 20:56:50.305 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 20:56:50.322 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 20:56:50.352 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 20:56:50.570 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 20:57:51.124 (0x7ffd72dec7a0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 10794, resource id: 39845918, major code: 18 (ChangeProperty), minor code: 0
+2018-02-02 20:57:51.125 (0x7ffd72dec7a0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 10797, resource id: 39845918, major code: 18 (ChangeProperty), minor code: 0
+2018-02-02 21:30:01.056 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:30:13.018 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:32:43.018 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:32:49.019 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:33:55.017 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:34:01.023 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:35:43.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:35:49.022 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:37:19.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:37:25.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:38:07.020 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:38:13.023 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:38:37.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:38:43.022 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:39:19.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:39:25.023 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:43:43.020 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:43:49.018 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:46:01.020 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:46:07.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:49:49.022 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:49:55.022 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:56:13.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:56:19.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:57:01.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 21:57:13.022 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:01:25.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:01:31.022 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:02:19.020 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:02:25.018 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:04:49.022 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:04:55.023 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:06:19.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:06:25.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:06:49.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:06:55.019 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:07:49.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:07:55.022 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:08:49.016 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:08:55.018 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:09:19.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:09:25.020 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:10:13.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:10:19.017 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:14:49.020 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:14:55.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:49:13.019 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:49:19.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:54:13.022 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:54:25.023 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:55:01.020 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 22:55:07.020 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 23:04:49.016 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 23:04:55.019 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 23:29:13.018 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 23:29:19.020 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 23:29:49.021 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-02 23:29:55.015 (0x7ffd72dec7a0) Warning:     * Error image is NULL
+2018-02-03 10:36:29.700 (0x7ffc7859cb40) Debug: New PolkitAgentListener  0x55de4872b8c0
+2018-02-03 10:36:31.373 (0x7ffc7859cb40) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc7859cb50) for  0x55de4872b8c0
+2018-02-03 10:36:46.435 (0x7ffc463a7910) Debug: WinIdChange 600007 handle QWidgetWindow(0x5605b2f748d0, name="LXQtPanel panel1Window") QScreen(0x5605b2dd0530, name="LVDS1")
+2018-02-03 10:36:46.468 (0x7ffc463a7910) Debug: Systray started
+2018-02-03 10:36:47.192 (0x7fff74ed05f0) Debug: Inhibit got: 27
+2018-02-03 10:36:51.473 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 10:36:51.481 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 10:36:51.582 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 10:38:08.795 (0x7ffc463a7910) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3050, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-02-03 10:38:08.796 (0x7ffc463a7910) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3053, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-02-03 12:11:36.440 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:11:37.857 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:11:37.926 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:11:37.951 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:11:37.968 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:11:38.277 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:11:38.293 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:11:38.310 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:11:38.353 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:11:38.548 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:44:55.046 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:45:00.727 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:46:18.726 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:46:24.725 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:50:18.730 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:50:24.730 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:54:00.729 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 12:54:06.730 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 13:28:24.730 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 13:28:30.731 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 13:41:55.592 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 17:07:05.613 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 17:07:06.863 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 17:07:06.880 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 17:07:07.070 (0x7ffc463a7910) Warning:     * Error image is NULL
+2018-02-03 17:07:26.671 (0x7ffc463a7910) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 12925, resource id: 46137360, major code: 18 (ChangeProperty), minor code: 0
+2018-02-03 17:07:30.554 (0x7ffc463a7910) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 13486, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-02-04 01:56:08.367 (0x7fff0442d870) Debug: New PolkitAgentListener  0x55a2c046e8c0
+2018-02-04 01:56:09.644 (0x7fff0442d870) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff0442d880) for  0x55a2c046e8c0
+2018-02-04 01:56:21.587 (0x7fff63734200) Debug: WinIdChange 1600007 handle QWidgetWindow(0x55ce627acb40, name="LXQtPanel panel1Window") QScreen(0x55ce62668530, name="LVDS1")
+2018-02-04 01:56:21.669 (0x7fff63734200) Debug: Systray started
+2018-02-04 01:56:22.856 (0x7fff81fc59a0) Debug: Inhibit got: 27
+2018-02-04 01:56:27.527 (0x7fff63734200) Warning:     * Error image is NULL
+2018-02-04 01:56:27.543 (0x7fff63734200) Warning:     * Error image is NULL
+2018-02-04 01:56:30.717 (0x7fff63734200) Warning:     * Error image is NULL
+2018-02-04 02:37:37.068 (0x7fff63734200) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 5235, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-02-04 09:43:32.174 (0x7fff0e84ae50) Debug: New PolkitAgentListener  0x55d0096baac0
+2018-02-04 09:43:32.398 (0x7fff0e84ae50) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff0e84ae60) for  0x55d0096baac0
+2018-02-04 09:43:49.254 (0x7ffdaed362e0) Debug: WinIdChange 1800007 handle QWidgetWindow(0x55d124065150, name="LXQtPanel panel1Window") QScreen(0x55d123d36530, name="LVDS1")
+2018-02-04 09:43:49.306 (0x7ffdaed362e0) Debug: Systray started
+2018-02-04 09:43:49.308 (0x7ffdaed362e0) Warning: QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.39'
+2018-02-04 09:43:49.937 (0x7ffd1b497880) Debug: Inhibit got: 27
+2018-02-04 09:43:53.119 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 11:00:09.645 (0x7fff4e12bd70) Warning: link x hasn't been detected!
+2018-02-04 11:00:09.645 (0x7fff4e12bd70) Warning: link x hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link x hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link x hasn't been detected!
+2018-02-04 11:00:09.646 (0x7fff4e12bd70) Warning: link x hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link x hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link x hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link x hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.647 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.648 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.648 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.648 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.648 (0x7fff4e12bd70) Warning: link x hasn't been detected!
+2018-02-04 11:00:09.648 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.648 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 11:00:09.648 (0x7fff4e12bd70) Warning: link y hasn't been detected!
+2018-02-04 12:01:02.914 (0x7ffdaed362e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 11158, resource id: 37748752, major code: 18 (ChangeProperty), minor code: 0
+2018-02-04 12:01:07.435 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:17.884 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:17.907 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:17.927 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:17.987 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:18.088 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:18.187 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:18.204 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:18.223 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:18.288 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:18.305 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:18.550 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 14:30:18.567 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 15:51:47.020 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 16:19:46.652 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 16:19:47.862 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 16:19:47.880 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 16:19:48.055 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 16:19:48.072 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:14:24.186 (0x7ffdaed362e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 20921, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-02-04 17:15:42.268 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:03.671 (0x7ffef8a51bc0) Warning: Empty filename passed to function
+2018-02-04 17:45:04.306 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:04.331 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:04.348 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:04.407 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:04.519 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:04.620 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:04.718 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:04.817 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:04.921 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:05.010 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:05.029 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:05.062 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:05.258 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:45:05.276 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 17:52:27.230 (0x7ffdaed362e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 22357, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-02-04 17:54:11.211 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 20:15:17.613 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 20:15:17.630 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 20:15:17.715 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 20:15:17.816 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 20:15:17.916 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 20:15:18.017 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 20:15:18.117 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 20:15:18.868 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 20:15:18.885 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 20:15:19.068 (0x7ffdaed362e0) Warning:     * Error image is NULL
+2018-02-04 23:27:11.037 (0x7ffdaed362e0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 29253, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-02-06 20:14:17.605 (0x7fffa03a86f0) Debug: New PolkitAgentListener  0x55823790e2c0
+2018-02-06 20:14:17.738 (0x7fffa03a86f0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fffa03a8700) for  0x55823790e2c0
+2018-02-06 20:14:29.233 (0x7fff31bf5310) Debug: WinIdChange 1200007 handle QWidgetWindow(0x5580f12d3e30, name="LXQtPanel panel1Window") QScreen(0x5580f0fe3530, name="LVDS1")
+2018-02-06 20:14:29.314 (0x7fff31bf5310) Debug: Systray started
+2018-02-06 20:14:29.316 (0x7fff31bf5310) Warning: QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.42'
+2018-02-06 20:14:29.926 (0x7fff31bf5310) Warning:     * Error image is NULL
+2018-02-06 20:14:29.938 (0x7fff31bf5310) Warning:     * Error image is NULL
+2018-02-06 20:14:30.453 (0x7ffcb834e680) Debug: Inhibit got: 27
+2018-02-06 20:14:37.583 (0x7fff31bf5310) Warning:     * Error image is NULL
+2018-02-06 20:14:48.357 (0x7fff31bf5310) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3302, resource id: 39845918, major code: 18 (ChangeProperty), minor code: 0
+2018-02-06 20:14:48.358 (0x7fff31bf5310) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3305, resource id: 39845918, major code: 18 (ChangeProperty), minor code: 0
+2018-02-06 20:28:54.815 (0x7fff31bf5310) Warning:     * Error image is NULL
+2018-02-06 20:29:00.783 (0x7fff31bf5310) Warning:     * Error image is NULL
+2018-02-06 22:09:39.948 (0x7fff31bf5310) Debug: execAction "/usr/share/applications/org.kde.konsole.desktop"
+2018-02-06 22:43:17.181 (0x7fff31bf5310) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 17576, resource id: 41943056, major code: 18 (ChangeProperty), minor code: 0
+2018-02-06 22:43:17.181 (0x7fff31bf5310) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 17579, resource id: 41943056, major code: 18 (ChangeProperty), minor code: 0
+2018-02-06 22:43:24.938 (0x7fff31bf5310) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 18403, resource id: 20971525, major code: 18 (ChangeProperty), minor code: 0
+2018-02-07 20:11:35.237 (0x7fff6dd89b50) Debug: New PolkitAgentListener  0x56302831c8c0
+2018-02-07 20:11:36.701 (0x7fff6dd89b50) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff6dd89b60) for  0x56302831c8c0
+2018-02-07 20:11:49.852 (0x7ffde531ea70) Debug: WinIdChange 1400007 handle QWidgetWindow(0x5581081e8fc0, name="LXQtPanel panel1Window") QScreen(0x558107ef1530, name="LVDS1")
+2018-02-07 20:11:49.928 (0x7ffde531ea70) Debug: Systray started
+2018-02-07 20:11:50.926 (0x7ffe58cb8a30) Debug: Inhibit got: 27
+2018-02-07 20:11:54.369 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 20:11:54.382 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 20:11:56.417 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 20:16:57.770 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 20:16:57.771 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 20:16:57.773 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 20:16:57.774 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 20:16:59.145 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 21:26:08.473 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 21:26:14.436 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 21:26:20.436 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 21:26:32.430 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 21:56:20.435 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 21:56:26.435 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:09:56.434 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:10:02.435 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:12:44.436 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:12:50.435 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:18:26.435 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:18:32.434 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:25:14.435 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:25:20.431 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:29:26.435 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:29:32.435 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:48:26.435 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:48:32.436 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:57:26.436 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 22:57:32.435 (0x7ffde531ea70) Warning:     * Error image is NULL
+2018-02-07 23:00:43.511 (0x7ffde531ea70) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 11592, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-02-08 19:34:48.124 (0x7fffc5bda3c0) Debug: New PolkitAgentListener  0x55c3bc80f8c0
+2018-02-08 19:34:48.619 (0x7fffc5bda3c0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fffc5bda3d0) for  0x55c3bc80f8c0
+2018-02-08 19:35:03.478 (0x7ffea0cde6f0) Debug: WinIdChange 1600007 handle QWidgetWindow(0x5641143d2c00, name="LXQtPanel panel1Window") QScreen(0x5641140db530, name="LVDS1")
+2018-02-08 19:35:03.519 (0x7ffea0cde6f0) Debug: Systray started
+2018-02-08 19:35:03.521 (0x7ffea0cde6f0) Warning: QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.39'
+2018-02-08 19:35:04.360 (0x7ffc0dbdf130) Debug: Inhibit got: 27
+2018-02-08 19:35:07.865 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 19:35:07.876 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 19:35:09.397 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 19:36:21.786 (0x7ffea0cde6f0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 6749, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-02-08 19:36:21.787 (0x7ffea0cde6f0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 6752, resource id: 39845893, major code: 18 (ChangeProperty), minor code: 0
+2018-02-08 19:36:23.323 (0x7ffea0cde6f0) Debug: execAction "/usr/share/applications/firefox.desktop"
+2018-02-08 19:57:47.908 (0x7ffea0cde6f0) Debug: execAction "/usr/share/applications/org.kde.konsole.desktop"
+2018-02-08 19:59:37.378 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "bind"
+2018-02-08 19:59:37.382 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "bind"
+2018-02-08 19:59:38.740 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/drives/Samsung_Flash_Drive_0353016010019507" has new interfaces: ("org.freedesktop.UDisks2.Drive")
+2018-02-08 19:59:38.748 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" has new interfaces: ("org.freedesktop.UDisks2.Block", "org.freedesktop.UDisks2.PartitionTable")
+2018-02-08 19:59:38.825 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb1" has new interfaces: ("org.freedesktop.UDisks2.Block", "org.freedesktop.UDisks2.Filesystem", "org.freedesktop.UDisks2.Partition")
+2018-02-08 20:07:00.091 (0x7ffca20b3ec0) Warning: Empty filename passed to function
+2018-02-08 20:07:08.864 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb1" lost interfaces: ("org.freedesktop.UDisks2.Partition", "org.freedesktop.UDisks2.Filesystem", "org.freedesktop.UDisks2.Block")
+2018-02-08 20:07:08.880 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" lost interfaces: ("org.freedesktop.UDisks2.PartitionTable")
+2018-02-08 20:07:12.009 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" lost interfaces: ("org.freedesktop.UDisks2.Block")
+2018-02-08 20:07:12.010 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/drives/Samsung_Flash_Drive_0353016010019507" lost interfaces: ("org.freedesktop.UDisks2.Drive")
+2018-02-08 20:07:12.016 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "unbind"
+2018-02-08 20:07:12.017 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "unbind"
+2018-02-08 20:11:27.500 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "bind"
+2018-02-08 20:11:27.501 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "bind"
+2018-02-08 20:11:28.846 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/drives/Samsung_Flash_Drive_0353016010019507" has new interfaces: ("org.freedesktop.UDisks2.Drive")
+2018-02-08 20:11:28.853 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" has new interfaces: ("org.freedesktop.UDisks2.Block", "org.freedesktop.UDisks2.PartitionTable")
+2018-02-08 20:11:28.929 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb1" has new interfaces: ("org.freedesktop.UDisks2.Block", "org.freedesktop.UDisks2.Filesystem", "org.freedesktop.UDisks2.Partition")
+2018-02-08 20:12:30.190 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb1" lost interfaces: ("org.freedesktop.UDisks2.Partition", "org.freedesktop.UDisks2.Filesystem", "org.freedesktop.UDisks2.Block")
+2018-02-08 20:12:30.206 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" lost interfaces: ("org.freedesktop.UDisks2.PartitionTable")
+2018-02-08 20:12:33.481 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" lost interfaces: ("org.freedesktop.UDisks2.Block")
+2018-02-08 20:12:33.482 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/drives/Samsung_Flash_Drive_0353016010019507" lost interfaces: ("org.freedesktop.UDisks2.Drive")
+2018-02-08 20:12:33.490 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "unbind"
+2018-02-08 20:12:33.493 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "unbind"
+2018-02-08 20:21:12.895 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "bind"
+2018-02-08 20:21:12.896 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "bind"
+2018-02-08 20:21:14.235 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/drives/Samsung_Flash_Drive_0353016010019507" has new interfaces: ("org.freedesktop.UDisks2.Drive")
+2018-02-08 20:21:14.245 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" has new interfaces: ("org.freedesktop.UDisks2.Block", "org.freedesktop.UDisks2.PartitionTable")
+2018-02-08 20:21:14.318 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb1" has new interfaces: ("org.freedesktop.UDisks2.Block", "org.freedesktop.UDisks2.Filesystem", "org.freedesktop.UDisks2.Partition")
+2018-02-08 20:21:19.756 (0x7ffea0cde6f0) Debug: execAction "/usr/share/applications/org.kde.konsole.desktop"
+2018-02-08 20:21:36.877 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb1" lost interfaces: ("org.freedesktop.UDisks2.Partition", "org.freedesktop.UDisks2.Filesystem", "org.freedesktop.UDisks2.Block")
+2018-02-08 20:21:36.892 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" lost interfaces: ("org.freedesktop.UDisks2.PartitionTable")
+2018-02-08 20:21:38.841 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/block_devices/sdb" lost interfaces: ("org.freedesktop.UDisks2.Block")
+2018-02-08 20:21:38.842 (0x7ffea0cde6f0) Debug: "/org/freedesktop/UDisks2/drives/Samsung_Flash_Drive_0353016010019507" lost interfaces: ("org.freedesktop.UDisks2.Drive")
+2018-02-08 20:21:38.857 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "unbind"
+2018-02-08 20:21:38.859 (0x7ffea0cde6f0) Warning: UdevQt: unhandled device action "unbind"
+2018-02-08 21:31:40.498 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:31:46.460 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:35:10.456 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:35:16.460 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:45:22.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:45:28.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:45:52.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:45:58.457 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:46:28.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:46:34.456 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:54:22.460 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:54:28.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:58:10.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 21:58:16.460 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:05:10.455 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:05:16.456 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:15:40.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:15:46.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:15:58.458 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:16:04.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:17:40.456 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:17:46.456 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:21:10.458 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:21:16.458 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:24:34.457 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:24:40.458 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:26:10.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:26:16.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:29:16.455 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:29:22.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:29:40.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:29:46.462 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:31:22.460 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:31:28.456 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:34:46.455 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:34:52.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:35:52.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:35:58.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:48:22.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:48:28.460 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:48:58.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:49:04.459 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:50:10.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:50:16.462 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:58:39.924 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 22:58:39.926 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:02:22.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:02:34.458 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:04:10.460 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:04:16.456 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:04:22.460 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:04:28.460 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:15:52.460 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:15:58.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:18:22.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:18:28.461 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:44:27.832 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-08 23:44:28.456 (0x7ffea0cde6f0) Warning:     * Error image is NULL
+2018-02-09 00:40:57.042 (0x7ffea0cde6f0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 41419, resource id: 46137360, major code: 18 (ChangeProperty), minor code: 0
+2018-02-09 00:41:02.929 (0x7ffea0cde6f0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 42166, resource id: 20971525, major code: 18 (ChangeProperty), minor code: 0
+2018-02-09 00:41:02.929 (0x7ffea0cde6f0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 42169, resource id: 20971525, major code: 18 (ChangeProperty), minor code: 0
+2018-02-09 07:07:09.108 (0x7fffe17bd820) Debug: New PolkitAgentListener  0x55696d3396c0
+2018-02-09 07:07:09.135 (0x7fffe17bd820) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fffe17bd830) for  0x55696d3396c0
+2018-02-09 07:07:19.971 (0x7fff8b272910) Debug: WinIdChange 1400007 handle QWidgetWindow(0x55da11f25200, name="LXQtPanel panel1Window") QScreen(0x55da11c5c530, name="LVDS1")
+2018-02-09 07:07:20.067 (0x7fff8b272910) Debug: Systray started
+2018-02-09 07:07:21.314 (0x7fff50b8d970) Debug: Inhibit got: 28
+2018-02-09 07:07:25.395 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:07:25.396 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:07:25.415 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:07:28.877 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:09:11.651 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:09:11.653 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:09:13.805 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:09:20.190 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:17:57.321 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:00.593 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:02.560 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:02.671 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:02.690 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:02.706 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:02.774 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:02.874 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.087 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.103 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.187 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.287 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.397 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.500 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.597 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.693 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.793 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.894 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:03.995 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:04.095 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:04.196 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:04.296 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:04.398 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:04.498 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:04.598 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:04.699 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:04.800 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:04.901 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:05.001 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:05.102 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:05.203 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:05.304 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:05.405 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:05.505 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:05.606 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:05.706 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:05.806 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:05.908 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.008 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.109 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.209 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.309 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.411 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.512 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.595 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.611 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.712 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.812 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:06.914 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:07.015 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:07.116 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:07.216 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:07.317 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:07.418 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:07.518 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:07.618 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:07.719 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:07.820 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:07.921 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:08.023 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:08.119 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:08.221 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:08.323 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:08.424 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:08.525 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:08.625 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:08.727 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:08.828 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:08.928 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:09.029 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:09.129 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:09.231 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:09.329 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:09.431 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:09.530 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:09.630 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:09.731 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:09.834 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:09.935 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:10.036 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:10.136 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:10.236 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:10.337 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:10.438 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:10.539 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:10.639 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:10.740 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:10.840 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:10.941 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:11.042 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:11.142 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:11.244 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:11.345 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:11.446 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:11.546 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:11.647 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:11.747 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:11.848 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:11.949 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:12.050 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:12.151 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:12.251 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:12.352 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:12.453 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:12.552 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:12.652 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:12.754 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:12.854 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:12.955 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:13.056 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:13.156 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:13.258 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:13.358 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:13.459 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:13.560 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:13.659 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:13.761 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:13.862 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:13.962 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:14.062 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:14.163 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:14.263 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:14.364 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:14.465 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:14.565 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:14.666 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:14.768 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:14.869 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:14.970 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:15.070 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:15.171 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:15.272 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:15.372 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:15.472 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:15.573 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:15.675 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:15.775 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:15.875 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:15.976 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:16.075 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:16.177 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:16.278 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:16.379 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:16.479 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:16.580 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:16.681 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:16.782 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:16.882 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:16.983 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:17.083 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:17.183 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:17.284 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:17.385 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:17.485 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:17.587 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:17.687 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:17.787 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:17.888 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:17.990 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.092 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.189 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.290 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.392 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.493 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.593 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.611 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.693 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.795 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.895 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:18.997 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.094 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.196 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.269 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.287 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.304 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.399 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.499 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.600 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.700 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.801 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:19.901 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:20.002 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:20.103 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:20.202 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:20.304 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:20.403 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:20.506 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:20.606 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:20.708 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:20.809 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:20.909 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:21.010 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:21.110 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:21.211 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:21.311 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:21.412 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:21.513 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:21.613 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:21.714 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:21.815 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:21.915 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:22.015 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:22.117 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:22.217 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:22.318 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:22.419 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:22.519 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:22.620 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:22.721 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:22.822 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:22.922 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:23.023 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:23.123 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:23.225 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:23.325 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:23.425 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:23.525 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:23.626 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:23.726 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:23.828 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:23.927 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:24.028 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:24.129 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:24.230 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:24.329 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:24.432 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:24.533 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:24.633 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:24.734 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:24.835 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:24.934 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:25.037 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:25.138 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:25.239 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:25.340 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:25.441 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:25.541 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:25.642 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:25.743 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:25.844 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:25.945 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:26.046 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:26.147 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:26.248 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:26.349 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:26.450 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:26.551 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:26.652 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:26.677 (0x7fff136a7980) Warning: Empty filename passed to function
+2018-02-09 07:18:26.762 (0x7fff8b272910) Warning:     * Error image is NULL
+2018-02-09 07:18:26.779 (0x7fff8b272910) Warning:     * Error image is NULL
