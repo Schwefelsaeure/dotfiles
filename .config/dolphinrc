@@ -24,6 +24,7 @@ Width 1366=700
 Favorites=
 
 [General]
+ConfirmClosingMultipleTabs=false
 Version=200
 ViewPropsTimestamp=2015,9,7,20,42,22
 
@@ -31,8 +32,8 @@ ViewPropsTimestamp=2015,9,7,20,42,22
 FontWeight=50
 
 [KPropertiesDialog]
-Height 768=449
-Width 1366=845
+Height 768=450
+Width 1366=458
 
 [MainWindow]
 Height 768=693
