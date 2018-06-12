@@ -37,4 +37,3 @@ alias gsh="git show"
 
 # Misc
 
-alias fg="find_files_and_grep"
