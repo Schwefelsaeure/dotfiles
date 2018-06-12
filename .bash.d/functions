@@ -16,30 +16,3 @@ function echo_aliases() {
 	echo ""
 }
 
-# Find files recursevily and grep within files.
-#
-# Parameters:
-#
-#   [$1]: search pattern (default = empty string)
-#   [$2]: grep options
-#
-# Examples:
-#
-#   Search empty string (= always true) which causes to print every line of file
-#   prefixed with filename and line number:
-#
-#     find_files_and_grep
-#
-#   Find pattern "git":
-#   
-#     find_files_and_grep git
-#
-#   Find pattern "git" and ignore case:
-#   
-#     find_files_and_grep git -i
-
-function find_files_and_grep() {
-    # Do not protect $2 by double quotes. Otherwise,
-    # "grep" interprets this as search argument.
-    find . -type f -exec grep --color=auto -Hn $2 "$1" {} \;
-}
