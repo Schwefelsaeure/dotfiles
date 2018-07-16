@@ -1,5 +1,5 @@
 # XScreenSaver Preferences File
-# Written by xscreensaver-demo 5.38 for benedikt on Thu Mar 29 21:03:40 2018.
+# Written by xscreensaver-demo 5.39 for benedikt on Sun Jul 15 18:32:56 2018.
 # https://www.jwz.org/xscreensaver/
 
 timeout:	0:10:00
@@ -271,6 +271,10 @@ programs:								      \
   GL: 				splodesic -root				    \n\
   GL: 				vigilance -root				    \n\
   GL: 				esper -root				    \n\
+  GL: 				crumbler -root				    \n\
+  GL: 				maze3d -root				    \n\
+  GL: 				peepers -root				    \n\
+  GL: 				razzledazzle -root			    \n\
 
 
 pointerPollTime:    0:00:05
