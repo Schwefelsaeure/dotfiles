@@ -1,11 +1,15 @@
-# Command Redefinitions
+# Aliases
+
+## Command Redefinitions
 
 alias diff="diff --color=auto"
+alias dir="dir --color=auto"
+alias dmesg='dmesg --color'
 alias grep="grep --color=auto"
 alias ls="ls --color=auto"
 alias ll="ls -al"
 
-# Git
+## Git
 
 alias ga="git add"
 alias gaf="ga -f"
@@ -34,6 +38,3 @@ alias gps="git push -v"
 alias gr="git reset HEAD"
 alias gs="git status -s"
 alias gsh="git show"
-
-# Misc
-

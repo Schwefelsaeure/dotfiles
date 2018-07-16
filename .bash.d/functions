@@ -1,9 +1,10 @@
+# Functions
+
 # Echo all defined aliases.
 #
 # Examples:
 #
 #   echo_aliases
-
 function echo_aliases() {
 	echo "Aliases:"
 	echo -n "  "

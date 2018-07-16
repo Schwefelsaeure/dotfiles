@@ -1,3 +1,5 @@
+# Run the SSH Agent if Not Already Started
+
 SSH_ENV=~/.ssh/environment
   
 function start_ssh_agent {
