@@ -1,15 +1,13 @@
-# /etc/bash.bashrc
+# Configuration of Bash shell
 #
-# https://wiki.archlinux.org/index.php/Color_Bash_Prompt
+# 1. Test if running interactively.
+# 2. Activate shell options.
+# 3. Source files under "~/.bash.d".
+# 4. Configure colorful "PS1" prompt if colors are available.
 #
-# This file is sourced by all *interactive* bash shells on startup,
-# including some apparently interactive shells such as scp and rcp
-# that can't tolerate any output. So make sure this doesn't display
-# anything or bad things will happen !
-
-# Test for an interactive shell. There is no need to set anything
-# past this point for scp and rcp, and it's important to refrain from
-# outputting anything in those cases.
+# Online resources:
+# - https://stackoverflow.com/questions/17333531/how-can-i-display-the-current-branch-and-folder-path-in-terminal/38758377#38758377
+# - https://brandur.org/fragments/hide-dirty
 
 # If not running interactively, don't do anything!
 [[ $- != *i* ]] && return
@@ -23,78 +21,6 @@ shopt -s checkwinsize
 # Enable history appending instead of overwriting.
 # shopt -s histappend
 
-case ${TERM} in
-	xterm*|rxvt*|Eterm|aterm|kterm|gnome*)
-		PROMPT_COMMAND=${PROMPT_COMMAND:+$PROMPT_COMMAND; }'printf "\033]0;%s@%s:%s\007" "${USER}" "${HOSTNAME%%.*}" "${PWD/#$HOME/~}"'
-		;;
-	screen)
-		PROMPT_COMMAND=${PROMPT_COMMAND:+$PROMPT_COMMAND; }'printf "\033_%s@%s:%s\033\\" "${USER}" "${HOSTNAME%%.*}" "${PWD/#$HOME/~}"'
-		;;
-esac
-
-# fortune is a simple program that displays a pseudorandom message
-# from a database of quotations at logon and/or logout.
-# If you wish to use it, please install "fortune-mod" from the
-# official repositories, then uncomment the following line:
-
-# [[ "$PS1" ]] && /usr/bin/fortune
-
-# Set colorful PS1 only on colorful terminals.
-# dircolors --print-database uses its own built-in database
-# instead of using /etc/DIR_COLORS. Try to use the external file
-# first to take advantage of user additions. Use internal bash
-# globbing instead of external grep binary.
-
-# sanitize TERM:
-safe_term=${TERM//[^[:alnum:]]/?}
-match_lhs=""
-
-[[ -f ~/.dir_colors ]] && match_lhs="${match_lhs}$(<~/.dir_colors)"
-[[ -f /etc/DIR_COLORS ]] && match_lhs="${match_lhs}$(</etc/DIR_COLORS)"
-[[ -z ${match_lhs} ]] \
-	&& type -P dircolors >/dev/null \
-	&& match_lhs=$(dircolors --print-database)
-
-if [[ $'\n'${match_lhs} == *$'\n'"TERM "${safe_term}* ]] ; then
-	
-	# we have colors :-)
-
-	# Enable colors for ls, etc. Prefer ~/.dir_colors
-	if type -P dircolors >/dev/null ; then
-		if [[ -f ~/.dir_colors ]] ; then
-			eval $(dircolors -b ~/.dir_colors)
-		elif [[ -f /etc/DIR_COLORS ]] ; then
-			eval $(dircolors -b /etc/DIR_COLORS)
-		fi
-	fi
-
-	PS1="$(if [[ ${EUID} == 0 ]]; then echo '\[\033[01;31m\]\h'; else echo '\[\033[01;32m\]\u@\h'; fi)\[\033[01;34m\] \w \$(__git_ps1 '(%s)') \$([[ \$? != 0 ]] && echo \"\[\033[01;31m\]:(\[\033[01;34m\] \")\\$\[\033[00m\] "
-
-	# Use this other PS1 string if you want \W for root and \w for all other users:
-	# PS1="$(if [[ ${EUID} == 0 ]]; then echo '\[\033[01;31m\]\h\[\033[01;34m\] \W'; else echo '\[\033[01;32m\]\u@\h\[\033[01;34m\] \w'; fi) \$([[ \$? != 0 ]] && echo \"\[\033[01;31m\]:(\[\033[01;34m\] \")\\$\[\033[00m\] "
-
-	# Uncomment the "Color" line in /etc/pacman.conf instead of uncommenting the following line...!
-
-	# alias pacman="pacman --color=auto"
-
-else
-
-	# show root@ when we do not have colors
-
-	PS1="\u@\h \w \$(__git_ps1 '(%s)') \$([[ \$? != 0 ]] && echo \":( \")\$ "
-
-	# Use this other PS1 string if you want \W for root and \w for all other users:
-	# PS1="\u@\h $(if [[ ${EUID} == 0 ]]; then echo '\W'; else echo '\w'; fi) \$([[ \$? != 0 ]] && echo \":( \")\$ "
-
-fi
-
-PS2="> "
-PS3="> "
-PS4="+ "
-
-# Try to keep environment pollution down, EPA loves us.
-unset safe_term match_lhs
-
 # Source all files under "~/.bash.d".
 if [[ -d ~/.bash.d ]] ; then
     # Allow spaces in config file names by setting inter file separator.
@@ -105,3 +31,86 @@ if [[ -d ~/.bash.d ]] ; then
     done
     unset IFS
 fi
+
+# Set the prompt
+
+# Select git info displayed, see /usr/lib/git-core/git-sh-prompt for more
+export GIT_PS1_SHOWDIRTYSTATE=1           # '*'=unstaged, '+'=staged
+export GIT_PS1_SHOWSTASHSTATE=1           # '$'=stashed
+export GIT_PS1_SHOWUNTRACKEDFILES=1       # '%'=untracked
+export GIT_PS1_SHOWUPSTREAM="verbose"     # 'u='=no difference, 'u+1'=ahead by 1 commit
+export GIT_PS1_STATESEPARATOR=''          # No space between branch and index status
+export GIT_PS1_DESCRIBE_STYLE="describe"  # detached HEAD style:
+#  contains      relative to newer annotated tag (v1.6.3.2~35)
+#  branch        relative to newer tag or branch (master~4)
+#  describe      relative to older annotated tag (v1.6.3.1-13-gdd42c2f)
+#  default       exactly eatching tag
+
+# Check if we support colours
+__colour_enabled() {
+    local -i colors=$(tput colors 2>/dev/null)
+    [[ $? -eq 0 ]] && [[ $colors -gt 2 ]]
+}
+unset __colourise_prompt && __colour_enabled && __colourise_prompt=1
+
+__set_bash_prompt()
+{
+    local exit="$?" # Save the exit status of the last command
+
+    # PS1 is made from $PreGitPS1 + <git-status> + $PostGitPS1
+    local PreGitPS1="${debian_chroot:+($debian_chroot)}"
+    local PostGitPS1=""
+
+    if [[ $__colourise_prompt ]]; then
+        export GIT_PS1_SHOWCOLORHINTS=1
+
+        # Wrap the colour codes between \[ and \], so that
+        # bash counts the correct number of characters for line wrapping:
+        local Red='\[\e[0;31m\]'; local BRed='\[\e[1;31m\]'
+        local Gre='\[\e[0;32m\]'; local BGre='\[\e[1;32m\]'
+        local Yel='\[\e[0;33m\]'; local BYel='\[\e[1;33m\]'
+        local Blu='\[\e[0;34m\]'; local BBlu='\[\e[1;34m\]'
+        local Mag='\[\e[0;35m\]'; local BMag='\[\e[1;35m\]'
+        local Cya='\[\e[0;36m\]'; local BCya='\[\e[1;36m\]'
+        local Whi='\[\e[0;37m\]'; local BWhi='\[\e[1;37m\]'
+        local None='\[\e[0m\]' # Return to default colour
+
+        # No username and bright colour if root
+        if [[ ${EUID} == 0 ]]; then
+            PreGitPS1+="$BRed\h "
+        else
+            PreGitPS1+="$Red\u@\h$None:"
+        fi
+
+        PreGitPS1+="$Blu\w$None"
+    else # No colour
+        # Sets prompt like: ravi@boxy:~/prj/sample_app
+        unset GIT_PS1_SHOWCOLORHINTS
+        PreGitPS1="${debian_chroot:+($debian_chroot)}\u@\h:\w"
+    fi
+
+    # Now build the part after git's status
+
+    # Highlight non-standard exit codes
+    if [[ $exit != 0 ]]; then
+        PostGitPS1="$Red[$exit]"
+    fi
+
+    # Change colour of prompt if root
+    if [[ ${EUID} == 0 ]]; then
+        PostGitPS1+="$BRed"'\$ '"$None"
+    else
+        PostGitPS1+="$Mag"'\$ '"$None"
+    fi
+
+    # Set PS1 from $PreGitPS1 + <git-status> + $PostGitPS1
+    __git_ps1 "$PreGitPS1" "$PostGitPS1" '(%s)'
+
+    # echo '$PS1='"$PS1" # debug
+    # defaut Linux Mint 17.2 user prompt:
+    # PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[01;34m\] \w\[\033[00m\] $(__git_ps1 "(%s)") \$ '
+}
+
+# This tells bash to reinterpret PS1 after every command, which we
+# need because __git_ps1 will return different text and colors
+PROMPT_COMMAND=__set_bash_prompt
