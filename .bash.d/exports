@@ -1,16 +1,21 @@
 # Exports
 
-## Colors
+## Git
 
-export LESS_TERMCAP_mb=$'\E[01;31m' \
-LESS_TERMCAP_md=$'\E[01;38;5;74m' \
-LESS_TERMCAP_me=$'\E[0m' \
-LESS_TERMCAP_se=$'\E[0m' \
-LESS_TERMCAP_so=$'\E[38;5;246m' \
-LESS_TERMCAP_ue=$'\E[0m' \
-LESS_TERMCAP_us=$'\E[04;38;5;146m'
+# Select git info displayed in PS1.
+# See git-prompt.sh for more info.
+export GIT_PS1_SHOWDIRTYSTATE=1           # '*'=unstaged, '+'=staged
+export GIT_PS1_SHOWSTASHSTATE=1           # '$'=stashed
+export GIT_PS1_SHOWUNTRACKEDFILES=1       # '%'=untracked
+export GIT_PS1_SHOWUPSTREAM="verbose"     # 'u='=no difference, 'u+1'=ahead by 1 commit
+export GIT_PS1_STATESEPARATOR=''          # No space between branch and index status
+export GIT_PS1_DESCRIBE_STYLE="describe"  # detached HEAD style:
+#  contains      relative to newer annotated tag (v1.6.3.2~35)
+#  branch        relative to newer tag or branch (master~4)
+#  describe      relative to older annotated tag (v1.6.3.1-13-gdd42c2f)
+#  default       exactly eatching tag
 
-## Commands, Paths and Prompts
+## Misc
 
 export DATA=/mnt/users/$USER
 export EDITOR=vim

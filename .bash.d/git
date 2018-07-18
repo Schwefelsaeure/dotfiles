@@ -1,4 +1,4 @@
-# Git-Specific Setup
+# Git Setup
 
 if [[ -f /usr/share/git/completion/git-completion.bash  ]]; then
     source /usr/share/git/completion/git-completion.bash

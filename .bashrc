@@ -1,116 +1,50 @@
-# Configuration of Bash shell
 #
+# ~/.bashrc
+#
+# This file is executed by bash(1) for non-login shells.
+#
+# Perform following tasks.
 # 1. Test if running interactively.
-# 2. Activate shell options.
-# 3. Source files under "~/.bash.d".
-# 4. Configure colorful "PS1" prompt if colors are available.
+# 2. Configure history options.
+# 3. Configure shell options.
+# 4. Source files under "~/.bash.d".
+# 5. Configure colorful "PS1" prompt if colors are available.
 #
-# Online resources:
-# - https://stackoverflow.com/questions/17333531/how-can-i-display-the-current-branch-and-folder-path-in-terminal/38758377#38758377
-# - https://brandur.org/fragments/hide-dirty
+# See bash(1) for more options.
 
-# If not running interactively, don't do anything!
+# If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-# Bash won't get SIGWINCH if another process is in the foreground.
-# Enable checkwinsize so that bash will check the terminal size when
-# it regains control.
-# http://cnswww.cns.cwru.edu/~chet/bash/FAQ (E11)
+# Don't put duplicate lines or lines starting with space in the history.
+HISTCONTROL=ignoreboth
+HISTSIZE=1000
+HISTFILESIZE=2000
+
+# Check the window size after each command and, if necessary, update the values of LINES and COLUMNS.
 shopt -s checkwinsize
 
-# Enable history appending instead of overwriting.
+# Append to the history file, don't overwrite it
 # shopt -s histappend
 
+# If set, the pattern "**" used in a pathname expansion context will
+# match all files and zero or more directories and subdirectories.
+#shopt -s globstar
+
 # Source all files under "~/.bash.d".
-if [[ -d ~/.bash.d ]] ; then
+if [[ -d ~/.bash.d ]]; then
     # Allow spaces in config file names by setting inter file separator.
     IFS=$(echo -en "\n\b")
     for file in $(ls ~/.bash.d)
     do
-        source ~/.bash.d/"$file"
+        source ~/.bash.d/${file}
     done
     unset IFS
 fi
 
-# Set the prompt
-
-# Select git info displayed, see /usr/lib/git-core/git-sh-prompt for more
-export GIT_PS1_SHOWDIRTYSTATE=1           # '*'=unstaged, '+'=staged
-export GIT_PS1_SHOWSTASHSTATE=1           # '$'=stashed
-export GIT_PS1_SHOWUNTRACKEDFILES=1       # '%'=untracked
-export GIT_PS1_SHOWUPSTREAM="verbose"     # 'u='=no difference, 'u+1'=ahead by 1 commit
-export GIT_PS1_STATESEPARATOR=''          # No space between branch and index status
-export GIT_PS1_DESCRIBE_STYLE="describe"  # detached HEAD style:
-#  contains      relative to newer annotated tag (v1.6.3.2~35)
-#  branch        relative to newer tag or branch (master~4)
-#  describe      relative to older annotated tag (v1.6.3.1-13-gdd42c2f)
-#  default       exactly eatching tag
-
-# Check if we support colours
-__colour_enabled() {
-    local -i colors=$(tput colors 2>/dev/null)
-    [[ $? -eq 0 ]] && [[ $colors -gt 2 ]]
-}
+# Use "__colour_enabled()" to check if terminal supports colors.
+# See "~/.bash.d/functions" for more info.
 unset __colourise_prompt && __colour_enabled && __colourise_prompt=1
 
-__set_bash_prompt()
-{
-    local exit="$?" # Save the exit status of the last command
-
-    # PS1 is made from $PreGitPS1 + <git-status> + $PostGitPS1
-    local PreGitPS1="${debian_chroot:+($debian_chroot)}"
-    local PostGitPS1=""
-
-    if [[ $__colourise_prompt ]]; then
-        export GIT_PS1_SHOWCOLORHINTS=1
-
-        # Wrap the colour codes between \[ and \], so that
-        # bash counts the correct number of characters for line wrapping:
-        local Red='\[\e[0;31m\]'; local BRed='\[\e[1;31m\]'
-        local Gre='\[\e[0;32m\]'; local BGre='\[\e[1;32m\]'
-        local Yel='\[\e[0;33m\]'; local BYel='\[\e[1;33m\]'
-        local Blu='\[\e[0;34m\]'; local BBlu='\[\e[1;34m\]'
-        local Mag='\[\e[0;35m\]'; local BMag='\[\e[1;35m\]'
-        local Cya='\[\e[0;36m\]'; local BCya='\[\e[1;36m\]'
-        local Whi='\[\e[0;37m\]'; local BWhi='\[\e[1;37m\]'
-        local None='\[\e[0m\]' # Return to default colour
-
-        # No username and bright colour if root
-        if [[ ${EUID} == 0 ]]; then
-            PreGitPS1+="$BRed\h "
-        else
-            PreGitPS1+="$Red\u@\h$None:"
-        fi
-
-        PreGitPS1+="$Blu\w$None"
-    else # No colour
-        # Sets prompt like: ravi@boxy:~/prj/sample_app
-        unset GIT_PS1_SHOWCOLORHINTS
-        PreGitPS1="${debian_chroot:+($debian_chroot)}\u@\h:\w"
-    fi
-
-    # Now build the part after git's status
-
-    # Highlight non-standard exit codes
-    if [[ $exit != 0 ]]; then
-        PostGitPS1="$Red[$exit]"
-    fi
-
-    # Change colour of prompt if root
-    if [[ ${EUID} == 0 ]]; then
-        PostGitPS1+="$BRed"'\$ '"$None"
-    else
-        PostGitPS1+="$Mag"'\$ '"$None"
-    fi
-
-    # Set PS1 from $PreGitPS1 + <git-status> + $PostGitPS1
-    __git_ps1 "$PreGitPS1" "$PostGitPS1" '(%s)'
-
-    # echo '$PS1='"$PS1" # debug
-    # defaut Linux Mint 17.2 user prompt:
-    # PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[01;34m\] \w\[\033[00m\] $(__git_ps1 "(%s)") \$ '
-}
-
-# This tells bash to reinterpret PS1 after every command, which we
-# need because __git_ps1 will return different text and colors
+# Tell bash to reinterpret PS1 after every command, which is
+# required because "__set_bash_prompt()" will return different text and colors
 PROMPT_COMMAND=__set_bash_prompt

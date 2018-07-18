@@ -1,10 +1,12 @@
 # Functions
 
+# 
 # Echo all defined aliases.
 #
-# Examples:
+# Usage:
 #
 #   echo_aliases
+#
 function echo_aliases() {
 	echo "Aliases:"
 	echo -n "  "
@@ -17,3 +19,85 @@ function echo_aliases() {
 	echo ""
 }
 
+#
+# Check if terminal supports colors
+#
+# Usage:
+#
+#   __colour_enabled
+#
+__colour_enabled() {
+    local -i colors=$(tput colors 2>/dev/null)
+    [[ $? -eq 0 ]] && [[ $colors -gt 2 ]]
+}
+
+#
+# Set bash prompt PS1
+#
+# PS1 is made of:
+# - a prefix: user@hostname:/my/path (this notation can be directly used for scp)
+# - the git status: configured with __git_ps1() method from git-prompt.sh
+# - a suffix: usually the prompt sign ("$" or "#")
+#
+# Usage:
+#
+#   __set_bash_prompt()
+#
+# Note: this exports PS1 variable.
+#
+__set_bash_prompt()
+{
+    local exit="$?" # Save the exit status of the last command
+
+    local PreGitPS1="${debian_chroot:+($debian_chroot)}"
+    local PostGitPS1=""
+
+    if [[ $__colourise_prompt ]]; then
+        export GIT_PS1_SHOWCOLORHINTS=1
+
+        # Wrap the colour codes between \[ and \], so that
+        # bash counts the correct number of characters for line wrapping:
+        local Red='\[\e[0;31m\]'; local BRed='\[\e[1;31m\]'
+        local Gre='\[\e[0;32m\]'; local BGre='\[\e[1;32m\]'
+        local Yel='\[\e[0;33m\]'; local BYel='\[\e[1;33m\]'
+        local Blu='\[\e[0;34m\]'; local BBlu='\[\e[1;34m\]'
+        local Mag='\[\e[0;35m\]'; local BMag='\[\e[1;35m\]'
+        local Cya='\[\e[0;36m\]'; local BCya='\[\e[1;36m\]'
+        local Whi='\[\e[0;37m\]'; local BWhi='\[\e[1;37m\]'
+        local None='\[\e[0m\]' # Return to default colour
+
+        # No username and bright colour if root
+        if [[ ${EUID} == 0 ]]; then
+            PreGitPS1+="$BRed\h "
+        else
+            PreGitPS1+="$Red\u@\h$None:"
+        fi
+
+        PreGitPS1+="$BBlu\w$None"
+    else # No colour
+        # Sets prompt like: ravi@boxy:~/prj/sample_app
+        unset GIT_PS1_SHOWCOLORHINTS
+        PreGitPS1="${debian_chroot:+($debian_chroot)}\u@\h:\w"
+    fi
+
+    # Now build the part after git's status
+
+    # Highlight non-standard exit codes
+    if [[ $exit != 0 ]]; then
+        PostGitPS1="$Red[$exit]"
+    fi
+
+    # Change colour of prompt if root
+    if [[ ${EUID} == 0 ]]; then
+        PostGitPS1+="$BRed"'\$ '"$None"
+    else
+        PostGitPS1+="$Mag"'\$ '"$None"
+    fi
+
+    # Set PS1 from $PreGitPS1 + <git-status> + $PostGitPS1
+    __git_ps1 "$PreGitPS1" "$PostGitPS1" '(%s)'
+
+    # echo '$PS1='"$PS1" # debug
+    # defaut Linux Mint 17.2 user prompt:
+    # PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[01;34m\] \w\[\033[00m\] $(__git_ps1 "(%s)") \$ '
+}
