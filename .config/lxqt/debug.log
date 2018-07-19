@@ -15353,3 +15353,35 @@
 2018-03-31 12:50:56.942 (0x7ffefbf47300) Warning:     * Error image is NULL
 2018-03-31 12:50:58.138 (0x7ffefbf47300) Warning:     * Error image is NULL
 2018-03-31 12:50:58.698 (0x7ffefbf47300) Warning:     * Error image is NULL
+2018-07-17 23:18:24.215 (0x7ffd8e3d5470) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 26785, resource id: 27262982, major code: 18 (ChangeProperty), minor code: 0
+2018-07-17 23:18:24.216 (0x7ffd8e3d5470) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 26788, resource id: 27262982, major code: 18 (ChangeProperty), minor code: 0
+2018-07-17 23:18:34.633 (0x7ffd8e3d5470) Warning:     * Error image is NULL
+2018-07-17 23:19:16.135 (0x7ffd8e3d5470) Warning:     * Error image is NULL
+2018-07-17 23:19:22.958 (0x7ffd8e3d5470) Warning:     * Error image is NULL
+2018-07-17 23:19:39.875 (0x7ffd8e3d5470) Warning:     * Error image is NULL
+2018-07-17 23:19:57.863 (0x7ffd8e3d5470) Warning:     * Error image is NULL
+2018-07-18 18:48:19.814 (0x7ffe5fb669c0) Debug: New PolkitAgentListener  0x561f1b39aac0
+2018-07-18 18:48:19.898 (0x7ffe5fb669c0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe5fb669d0) for  0x561f1b39aac0
+2018-07-18 18:48:33.139 (0x7ffea03b5cc0) Debug: WinIdChange 1200008 handle QWidgetWindow(0x558abb05b1f0, name="LXQtPanel panel1Window") QScreen(0x558abae77430, name="LVDS1")
+2018-07-18 18:48:33.258 (0x7ffea03b5cc0) Debug: Systray started
+2018-07-18 18:48:33.260 (0x7ffea03b5cc0) Warning: QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.77'
+2018-07-18 18:48:34.195 (0x7ffff069b5b0) Debug: Inhibit got: 28
+2018-07-18 18:48:38.256 (0x7ffea03b5cc0) Warning:     * Error image is NULL
+2018-07-18 18:48:43.076 (0x7ffea03b5cc0) Warning:     * Error image is NULL
+2018-07-18 18:54:47.329 (0x7ffea03b5cc0) Warning:     * Error image is NULL
+2018-07-18 20:21:24.016 (0x7ffea03b5cc0) Warning:     * Error image is NULL
+2018-07-18 20:21:24.018 (0x7ffea03b5cc0) Warning:     * Error image is NULL
+2018-07-18 20:21:24.021 (0x7ffea03b5cc0) Warning:     * Error image is NULL
+2018-07-18 20:21:29.649 (0x7ffea03b5cc0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 19282, resource id: 39845904, major code: 18 (ChangeProperty), minor code: 0
+2018-07-18 20:21:34.604 (0x7ffea03b5cc0) Warning:     * Error image is NULL
+2018-07-18 22:05:30.841 (0x7ffea03b5cc0) Warning:     * Error image is NULL
+2018-07-18 22:05:30.901 (0x7ffea03b5cc0) Warning:     * Error image is NULL
+2018-07-18 22:05:30.930 (0x7ffea03b5cc0) Warning:     * Error image is NULL
+2018-07-19 20:45:40.785 (0x7fff3501f0c0) Debug: New PolkitAgentListener  0x55dc65ef3ac0
+2018-07-19 20:45:41.179 (0x7fff3501f0c0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff3501f0d0) for  0x55dc65ef3ac0
+2018-07-19 20:45:55.964 (0x7ffe9bbce380) Debug: WinIdChange 1400008 handle QWidgetWindow(0x555d7f171670, name="LXQtPanel panel1Window") QScreen(0x555d7f016430, name="LVDS1")
+2018-07-19 20:45:56.018 (0x7ffe9bbce380) Debug: Systray started
+2018-07-19 20:45:56.691 (0x7fff8a3d8c00) Debug: Inhibit got: 28
+2018-07-19 20:46:00.445 (0x7ffe9bbce380) Warning:     * Error image is NULL
+2018-07-19 20:46:05.658 (0x7ffe9bbce380) Warning:     * Error image is NULL
+2018-07-19 21:09:17.343 (0x7ffe9bbce380) Warning:     * Error image is NULL

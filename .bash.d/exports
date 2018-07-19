@@ -8,7 +8,7 @@ export GIT_PS1_SHOWDIRTYSTATE=1           # '*'=unstaged, '+'=staged
 export GIT_PS1_SHOWSTASHSTATE=1           # '$'=stashed
 export GIT_PS1_SHOWUNTRACKEDFILES=1       # '%'=untracked
 export GIT_PS1_SHOWUPSTREAM="verbose"     # 'u='=no difference, 'u+1'=ahead by 1 commit
-export GIT_PS1_STATESEPARATOR=''          # No space between branch and index status
+export GIT_PS1_STATESEPARATOR=''          # separator between branch and index status
 export GIT_PS1_DESCRIBE_STYLE="describe"  # detached HEAD style:
 #  contains      relative to newer annotated tag (v1.6.3.2~35)
 #  branch        relative to newer tag or branch (master~4)
