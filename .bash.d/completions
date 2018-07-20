@@ -1,5 +1,17 @@
 # Completions
 
+## Bash
+
 if [[ -f /usr/share/bash-completion/bash_completion ]]; then
     source /usr/share/bash-completion/bash_completion
+fi
+
+## Git
+
+if [[ -f /usr/share/git/completion/git-completion.bash  ]]; then
+    source /usr/share/git/completion/git-completion.bash
+fi
+
+if [[ -f /usr/share/git/completion/git-prompt.sh ]]; then
+    source /usr/share/git/completion/git-prompt.sh
 fi

@@ -15385,3 +15385,19 @@
 2018-07-19 20:46:00.445 (0x7ffe9bbce380) Warning:     * Error image is NULL
 2018-07-19 20:46:05.658 (0x7ffe9bbce380) Warning:     * Error image is NULL
 2018-07-19 21:09:17.343 (0x7ffe9bbce380) Warning:     * Error image is NULL
+2018-07-20 00:21:37.061 (0x7ffe9bbce380) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 38719, resource id: 41943056, major code: 18 (ChangeProperty), minor code: 0
+2018-07-20 00:21:42.238 (0x7ffe9bbce380) Warning:     * Error image is NULL
+2018-07-20 00:21:42.260 (0x7ffe9bbce380) Warning:     * Error image is NULL
+2018-07-20 00:21:42.264 (0x7ffe9bbce380) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39057, resource id: 56623827, major code: 18 (ChangeProperty), minor code: 0
+2018-07-20 00:21:42.266 (0x7ffe9bbce380) Warning:     * Error image is NULL
+2018-07-20 00:21:42.268 (0x7ffe9bbce380) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39079, resource id: 56623827, major code: 18 (ChangeProperty), minor code: 0
+2018-07-20 15:27:14.127 (0x7fffa8138b20) Debug: New PolkitAgentListener  0x5584bbf53ac0
+2018-07-20 15:27:14.151 (0x7fffa8138b20) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fffa8138b30) for  0x5584bbf53ac0
+2018-07-20 15:27:27.762 (0x7ffdc6fcb670) Debug: WinIdChange 1a00008 handle QWidgetWindow(0x55df284e1ac0, name="LXQtPanel panel1Window") QScreen(0x55df28117430, name="LVDS1")
+2018-07-20 15:27:27.844 (0x7ffdc6fcb670) Debug: Systray started
+2018-07-20 15:27:27.845 (0x7ffdc6fcb670) Warning: QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.75'
+2018-07-20 15:27:28.698 (0x7fff697adea0) Debug: Inhibit got: 28
+2018-07-20 15:27:32.379 (0x7ffdc6fcb670) Warning:     * Error image is NULL
+2018-07-20 15:36:54.682 (0x7ffdc6fcb670) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3595, resource id: 37748743, major code: 18 (ChangeProperty), minor code: 0
+2018-07-20 15:40:05.296 (0x7ffdc6fcb670) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4332, resource id: 37748743, major code: 18 (ChangeProperty), minor code: 0
+2018-07-20 15:40:05.297 (0x7ffdc6fcb670) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4335, resource id: 37748743, major code: 18 (ChangeProperty), minor code: 0
