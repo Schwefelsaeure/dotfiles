@@ -1,5 +1,10 @@
 # Exports
 
+## Applications
+
+export BROWSER=chromium
+export EDITOR=vim
+
 ## Git
 
 # Select git info displayed in PS1.
@@ -15,8 +20,7 @@ export GIT_PS1_DESCRIBE_STYLE="describe"  # detached HEAD style:
 #  describe      relative to older annotated tag (v1.6.3.1-13-gdd42c2f)
 #  default       exactly eatching tag
 
-## Misc
+## Paths
 
 export DATA=/mnt/users/$USER
-export EDITOR=vim
-export PATH="$PATH":"$DATA"/Programmierung/Scripts/Bash
+export PATH="$PATH:$DATA/Scripts/Bash"
