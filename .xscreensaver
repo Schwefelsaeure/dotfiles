@@ -1,5 +1,5 @@
 # XScreenSaver Preferences File
-# Written by xscreensaver-demo 5.39 for benedikt on Sun Jul 15 18:32:56 2018.
+# Written by xscreensaver-demo 5.40 for benedikt on Wed Sep  5 20:42:24 2018.
 # https://www.jwz.org/xscreensaver/
 
 timeout:	0:10:00
@@ -275,6 +275,9 @@ programs:								      \
   GL: 				maze3d -root				    \n\
   GL: 				peepers -root				    \n\
   GL: 				razzledazzle -root			    \n\
+				filmleader -root			    \n\
+				glitchpeg -root				    \n\
+				vfeedback -root				    \n\
 
 
 pointerPollTime:    0:00:05
