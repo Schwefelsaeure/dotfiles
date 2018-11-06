@@ -24,8 +24,10 @@
 .macromedia/
 .mozilla/
 .mplayer/
+.oracle_jre_usage/
 .p2/
 .pki/
+.PowerFolder/
 .purple/
 .solfege/
 .ssh/*

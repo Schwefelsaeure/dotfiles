@@ -32,8 +32,8 @@ ViewPropsTimestamp=2015,9,7,20,42,22
 FontWeight=50
 
 [KPropertiesDialog]
-Height 768=450
-Width 1366=458
+Height 768=449
+Width 1366=486
 
 [MainWindow]
 Height 768=693
