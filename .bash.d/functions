@@ -35,6 +35,7 @@ terminal_supports_colors() {
 # Set bash prompt PS1
 #
 # PS1 is made of:
+# - the Python virtual environment: (environment_name)
 # - a prefix: user@hostname:/my/path (this notation can be directly used for scp)
 # - the git status: configured with __git_ps1() method from git-prompt.sh
 # - a suffix: usually the prompt sign ("$" or "#")
@@ -49,6 +50,7 @@ set_bash_prompt()
 {
     local exit_status_last_command="$?" 
 
+    local python_virtualenv=""
     local ps1_prefix=""
     local ps1_suffix=""
 
@@ -67,14 +69,23 @@ set_bash_prompt()
         local Whi='\[\e[0;37m\]'; local BWhi='\[\e[1;37m\]'
         local Reset='\[\e[0m\]'
 
+        if [[ -v VIRTUAL_ENV ]]; then
+            python_virtualenv="$Yel(`basename \"$VIRTUAL_ENV\"`)$Reset "
+        fi
+
         # Set "user@hostname:".
         ps1_prefix+="$BRed\u$Reset@$Cya\h$Reset:"
 
         # Set working directory.
         ps1_prefix+="$BBlu\w$Reset"
     else # No color
-        # Sets prompt like: ravi@boxy:~/prj/sample_app
         unset GIT_PS1_SHOWCOLORHINTS
+
+        if [[ -v VIRTUAL_ENV ]]; then
+            python_virtualenv="(`basename \"$VIRTUAL_ENV\"`) "
+        fi
+
+        # Sets prompt like: user@hostname:~/my/path
         ps1_prefix="\u@\h:\w"
     fi
 
@@ -93,7 +104,7 @@ set_bash_prompt()
     # Set PS1 consisting of $ps1_prefix + <git-status> + $ps1_suffix.
     # Use '<space>(%s)' to insert a space character. This is space character is
     # ommitted if being outside of a git repository.
-    __git_ps1 "$ps1_prefix" "$ps1_suffix" ' (%s)'
+    __git_ps1 "$python_virtualenv$ps1_prefix" "$ps1_suffix" ' (%s)'
 
     # echo "Debug: \$PS1=$PS1"
 }
