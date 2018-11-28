@@ -1,6 +1,7 @@
 # Directories
 
 .adobe/
+.android/
 .cache/
 .config/*
 .dbus/

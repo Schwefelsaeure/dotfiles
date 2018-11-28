@@ -42,9 +42,6 @@ if [[ -d ~/.bash.d ]]; then
     unset IFS
 fi
 
-# See "~/.bash.d/functions" for more info.
-unset colorize_prompt && terminal_supports_colors && colorize_prompt=1
-
 # Tell bash to reinterpret PS1 after every command, which is required because
-# "__set_bash_prompt()" will return different text and colors
+# "set_bash_prompt()" will return different text and colors.
 PROMPT_COMMAND=set_bash_prompt

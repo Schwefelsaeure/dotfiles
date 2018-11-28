@@ -19177,3 +19177,21 @@
 2018-11-26 17:46:56.102 (0x7ffe7eaf9f50) Warning: QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.75'
 2018-11-26 17:46:56.299 (0x7ffecb3aa980) Debug: Inhibit got: 20
 2018-11-26 17:47:21.112 (0x7ffe7eaf9f50) Debug: execAction "/usr/share/applications/chromium.desktop"
+2018-11-26 22:54:04.099 (0x7ffe7eaf9f50) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 35084, resource id: 27262983, major code: 18 (ChangeProperty), minor code: 0
+2018-11-27 20:12:47.557 (0x7ffedafd4fc0) Debug: New PolkitAgentListener  0x561b3be7a280
+2018-11-27 20:12:47.826 (0x7ffedafd4fc0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffedafd4fd0) for  0x561b3be7a280
+2018-11-27 20:13:08.955 (0x7ffcaad9e980) Debug: WinIdChange 1800008 handle QWidgetWindow(0x55e0beba5bc0, name="LXQtPanel panel1Window") QScreen(0x55e0be98a480, name="LVDS1")
+2018-11-27 20:13:09.027 (0x7ffcaad9e980) Debug: Systray started
+2018-11-27 20:13:09.030 (0x7ffcaad9e980) Warning: QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.82'
+2018-11-27 20:13:09.232 (0x7fff43543740) Debug: Inhibit got: 20
+2018-11-27 20:13:12.952 (0x7ffcaad9e980) Warning:     * Error image is NULL
+2018-11-27 20:23:16.269 (0x7ffcaad9e980) Debug: execAction "/usr/share/applications/org.kde.konsole.desktop"
+2018-11-27 21:47:25.133 (0x7ffcaad9e980) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 5909, resource id: 41943047, major code: 18 (ChangeProperty), minor code: 0
+2018-11-28 18:36:55.554 (0x7ffe51957d30) Debug: New PolkitAgentListener  0x5593b8a9f280
+2018-11-28 18:36:55.778 (0x7ffe51957d30) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe51957d40) for  0x5593b8a9f280
+2018-11-28 18:37:10.955 (0x7ffedda53c30) Debug: WinIdChange 1400008 handle QWidgetWindow(0x563c59008d50, name="LXQtPanel panel1Window") QScreen(0x563c58e5d480, name="LVDS1")
+2018-11-28 18:37:10.998 (0x7ffedda53c30) Debug: Systray started
+2018-11-28 18:37:11.229 (0x7ffd4daad3b0) Debug: Inhibit got: 20
+2018-11-28 18:37:16.260 (0x7ffedda53c30) Warning:     * Error image is NULL
+2018-11-28 18:37:25.060 (0x7ffedda53c30) Debug: execAction "/usr/share/applications/chromium.desktop"
+2018-11-28 18:42:11.787 (0x7ffedda53c30) Debug: execAction "/usr/share/applications/org.kde.konsole.desktop"

@@ -7,7 +7,8 @@
 #
 #   echo_aliases
 #
-function echo_aliases() {
+function echo_aliases()
+{
 	echo "Aliases:"
 	echo -n "  "
 	
@@ -17,18 +18,6 @@ function echo_aliases() {
 	done
 	
 	echo ""
-}
-
-#
-# Check if terminal supports colors.
-#
-# Usage:
-#
-#   unset colorize_prompt && terminal_supports_colors && colorize_prompt=1
-#
-terminal_supports_colors() {
-    local -i colors=$(tput colors 2>/dev/null)
-    [[ $? -eq 0 ]] && [[ $colors -gt 2 ]]
 }
 
 #
@@ -42,20 +31,21 @@ terminal_supports_colors() {
 #
 # Usage:
 #
-#   __set_bash_prompt()
+#   set_bash_prompt()
 #
-# Note: this exports PS1 variable.
+# Note: this exports the PS1 variable.
 #
 set_bash_prompt()
 {
-    local exit_status_last_command="$?" 
+    local exit_status_last_command="${?}"
 
     local python_virtualenv=""
     local ps1_prefix=""
     local ps1_suffix=""
 
-    # Build "ps1_prefix".
-    if [[ $colorize_prompt ]]; then
+    local supported_terminal_colors=$(tput colors 2>/dev/null)
+
+    if [[ ${supported_terminal_colors} -gt 2 ]]; then
         export GIT_PS1_SHOWCOLORHINTS=1
 
         # Wrap the color codes between \[ and \], so that bash counts the
@@ -68,43 +58,37 @@ set_bash_prompt()
         local Cya='\[\e[0;36m\]'; local BCya='\[\e[1;36m\]'
         local Whi='\[\e[0;37m\]'; local BWhi='\[\e[1;37m\]'
         local Reset='\[\e[0m\]'
-
-        if [[ -v VIRTUAL_ENV ]]; then
-            python_virtualenv="$Yel(`basename \"$VIRTUAL_ENV\"`)$Reset "
-        fi
-
-        # Set "user@hostname:".
-        ps1_prefix+="$BRed\u$Reset@$Cya\h$Reset:"
-
-        # Set working directory.
-        ps1_prefix+="$BBlu\w$Reset"
     else # No color
         unset GIT_PS1_SHOWCOLORHINTS
-
-        if [[ -v VIRTUAL_ENV ]]; then
-            python_virtualenv="(`basename \"$VIRTUAL_ENV\"`) "
-        fi
-
-        # Sets prompt like: user@hostname:~/my/path
-        ps1_prefix="\u@\h:\w"
+        
+        local Red=''; local BRed=''
+        local Gre=''; local BGre=''
+        local Yel=''; local BYel=''
+        local Blu=''; local BBlu=''
+        local Mag=''; local BMag=''
+        local Cya=''; local BCya=''
+        local Whi=''; local BWhi=''
+        local Reset=''
     fi
 
-    # Build "ps1_suffix".
-    if [[ $exit_status_last_command != 0 ]]; then
-        ps1_suffix="$Red[$exit_status_last_command]"
+    if [[ -v VIRTUAL_ENV ]]; then
+        python_virtualenv="${BYel}($(basename ${VIRTUAL_ENV}))${Reset} "
     fi
 
-    # Use different prompt symbol when being root.
-    if [[ ${EUID} == 0 ]]; then
-        ps1_suffix+="$BRed"'# '"$Reset"
-    else
-        ps1_suffix+="$BRed"'$ '"$Reset"
+    # Set "user@hostname:".
+    ps1_prefix+="${BRed}\u${Reset}@${Cya}\h${Reset}:"
+    # Set working directory.
+    ps1_prefix+="${BBlu}\w${Reset} "
+
+    if [[ ${exit_status_last_command} != 0 ]]; then
+        ps1_suffix="${Red}[${exit_status_last_command}]"
     fi
 
-    # Set PS1 consisting of $ps1_prefix + <git-status> + $ps1_suffix.
-    # Use '<space>(%s)' to insert a space character. This is space character is
-    # ommitted if being outside of a git repository.
-    __git_ps1 "$python_virtualenv$ps1_prefix" "$ps1_suffix" ' (%s)'
+    # If the effective UID is 0, a #, otherwise a $.
+    ps1_suffix+="${BRed}\\$ ${Reset}"
+
+    # Call "__git_ps1()" to evaluate git branch and set "${PS1}".
+    __git_ps1 "${python_virtualenv}${ps1_prefix}" "${ps1_suffix}" "(%s)"
 
     # echo "Debug: \$PS1=$PS1"
 }
