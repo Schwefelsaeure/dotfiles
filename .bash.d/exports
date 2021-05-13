@@ -22,5 +22,5 @@ export GIT_PS1_DESCRIBE_STYLE="describe"  # detached HEAD style:
 
 ## Paths
 
-export DATA=/mnt/users/$USER
+export DATA=/mnt/data/$USER
 export PATH="$PATH:$DATA/Scripts/Bash"
