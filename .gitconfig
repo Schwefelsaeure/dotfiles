@@ -14,6 +14,8 @@
 	ui = auto
 [gui]
 	spellingdictionary = en_US
+	fontui = -family \"Nimbus Sans\" -size 12 -weight normal -slant roman -underline 0 -overstrike 0
+	fontdiff = -family \"Nimbus Mono PS\" -size 12 -weight normal -slant roman -underline 0 -overstrike 0
 [push]
 	default = simple
 [diff]
